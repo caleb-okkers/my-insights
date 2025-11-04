@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.DS_Store
+
+# Data / notebooks
+*.ipynb_checkpoints
+/data/raw/
+data/interim/
+data/processed/
+
+# Virtual environments
+venv/
+.env/
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
