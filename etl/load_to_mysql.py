@@ -8,7 +8,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     'host': 'localhost',       # or your MySQL server host
     'user': 'root',
-    'password': 'Okkers2000!',
+    'password': 'Keleb@g!le3#',
     'database': 'my_insights'
 }
 
