@@ -1,0 +1,955 @@
+stop_id,stop_name,stop_type,stop_status,stop_description,longitude,latitude
+1,La Paloma 1,Existing IRT Stop,Active,Full Shelter,18.45343608662468,-33.78344501334062
+2,La Paloma 2,Existing IRT Stop,Active,Full Shelter,18.454262531900216,-33.78442694821041
+3,Losperds 1,Existing IRT Stop,Active,Totem,18.452842090122765,-33.68996613569019
+4,Pella North 1,Existing IRT Stop,Active,Totem,18.52033162705398,-33.5369340264067
+5,Pella Central 1,Existing IRT Stop,Active,Totem,18.52063573157226,-33.53888358555547
+6,Insiswa 1,Existing IRT Stop,Active,Temp Pole,18.504791799142673,-33.55131845103735
+7,Kolgha 1,Existing IRT Stop,Active,Temp Pole,18.504432472777967,-33.553931192571135
+8,Lagan 1,Existing IRT Stop,Active,Temp Pole,18.501611762938282,-33.554567522906815
+9,Bridgeway 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.504042705824787,-33.8950358701624
+10,Loxton East 1,Existing IRT Stop,Active,Full Shelter,18.4951977924474,-33.883062773310584
+11,D Nyembe 2,Existing IRT Stop,Active,Cantilever Shelter,18.691692381432397,-34.04475764635079
+12,Johan Heyns North 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.486349385579302,-33.588892404979596
+13,Begonia 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.497156118879023,-33.580488336658554
+14,Begonia 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.496859675131642,-33.580301237927706
+15,Aloe 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.5012614197815,-33.58066795176319
+16,Aloe 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50163871245084,-33.580503305187364
+17,Acacia 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.503138898787412,-33.57941064088938
+18,Acacia 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.503138898642884,-33.579283411782484
+19,Azalea 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.503049067450128,-33.5758631307238
+20,Azalea 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.502716690659422,-33.575773319146066
+21,Kerria Primary 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.49837782823329,-33.577038166436466
+22,Kerria Primary 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.49828799556763,-33.57711300937642
+23,Union 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.4091212209137,-33.93165015803566
+24,Union 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.40892359214435,-33.931866305297255
+25,Old Breakwater Prison 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.416038248671335,-33.90660319205688
+26,Old Breakwater Prison 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.415957399735216,-33.90667029165575
+27,Walworth 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.52073689522749,-33.804610002225964
+28,Southwark 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.52293776773996,-33.80433381721082
+29,Lewisham 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.5239618473278,-33.80208697810964
+30,Sparrebos 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.498800035693616,-33.54910991188851
+31,Sparrebos 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.49899766464286,-33.54917729188518
+32,Castlehill 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.505303838625352,-33.55690318500198
+33,Castlehill 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.504908580066438,-33.55667860472477
+34,Montreal South 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.506552496944117,-33.56108027014065
+35,Montreal South 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50664232792545,-33.56176894483641
+36,Klipheuwel 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.505923676484105,-33.562427673205846
+37,Klipheuwel 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.505663164672487,-33.56248755668233
+38,Capitoline 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50237533060626,-33.561536892439726
+39,Capitoline 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.502213634532534,-33.56117009721657
+40,Harry Alexander 1,New IRT Stop with Temporary Pole,Active,Red Totem,18.490472653371533,-33.58101221209291
+41,Harry Alexander 2,New IRT Stop with Temporary Pole,Active,Red Totem,18.49038282163323,-33.581087050996366
+42,Ankerlig Power Station 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.461636733091595,-33.595417528024555
+43,Ankerlig Power Station 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.461789446170076,-33.59544745932602
+44,Brecon 1,Existing IRT Stop,Active,Full Shelter,18.499536653868628,-33.560728444048394
+45,Brecon 2,Existing IRT Stop,Active,Red Totem,18.499626486139128,-33.56069850140281
+46,Corsair 1,New IRT Stop with Temporary Pole,Active,Temp Pole,18.504153995336118,-33.879990183005106
+47,Corsair 2,New IRT Stop with Temporary Pole,Active,Temp Pole,18.504728916640868,-33.879945435794916
+48,Civic Centre,IRT Station,Active,Station,18.42957585955238,-33.9205961106839
+49,Bakoven,Existing IRT Stop,Active,Totem,18.373556919450007,-33.96318692874716
+50,Table View,IRT Station,Active,Station,18.48923297823181,-33.82482883019118
+51,Atlantis Station,IRT Station,Active,Station,18.491424866774416,-33.563363357892044
+52,Thibault Square,IRT Station,Active,Station,18.424257834103155,-33.91892632467271
+53,Stadium,Existing IRT Stop,Active,Temp Pole,18.411968880944478,-33.90795263633663
+54,Melkbosstrand,IRT Station,Active,Station,18.442709229505418,-33.73046331133489
+55,Discovery,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.528363591557063,-33.79904133485711
+56,Blaauwberg Hospital 1,Existing IRT Stop,Active,Cantilever Shelter,18.48478631665288,-33.80315441975873
+57,Blaauwberg Hospital 4,Existing IRT Stop,Active,Cantilever Shelter,18.48550549776553,-33.803213265786894
+58,Montague Gardens,IRT Station,Active,Station,18.51593989202501,-33.85548754218252
+59,Mitchells Plain,IRT Station,Active,Station,18.620494806897373,-34.04779847384017
+60,Adderley,IRT Station,Active,Station,18.42496750272852,-33.92042466117719
+61,Wood,IRT Station,Active,Station,18.507073520347696,-33.82956004789009
+62,Omuramba,IRT Station,Active,Station,18.51292155174305,-33.86845952719692
+63,Sanddrift,IRT Station,Active,Station,18.510226606431182,-33.884173949433716
+64,Century City,IRT Station,Active,Station,18.50642673268206,-33.891437254791185
+65,Riebeeck 1,Existing IRT Stop,Active,Full Shelter,18.420763045333015,-33.91826836218264
+66,Riebeeck 2,Existing IRT Stop,Active,Totem,18.42198161621249,-33.919009485327464
+67,Alfred 1,Existing IRT Stop,Active,Totem,18.418230137693623,-33.91534810386399
+68,Alfred 2,Existing IRT Stop,Active,Totem,18.418679296207404,-33.91596684861909
+69,Gallows Hill 1,Existing IRT Stop,Active,Cantilever Shelter,18.416070306681096,-33.91198767291759
+70,Gallows Hill 2,Existing IRT Stop,Active,Full Shelter,18.416316996906943,-33.91200313409632
+71,Upper Portswood 1,Existing IRT Stop,Active,Totem,18.413067519703024,-33.909216064894466
+72,Upper Portswood 2,Existing IRT Stop,Active,Full Shelter,18.413235389520487,-33.90915514798391
+73,Civic Centre 1,IRT Station,Active,Station,18.429045854401117,-33.91996994476848
+74,Civic Centre 2,IRT Station,Active,Station,18.42872246054721,-33.92020848537583
+75,Civic Centre 3,IRT Station,Active,Station,18.4295219611668,-33.92031284588716
+76,Civic Centre 4,IRT Station,Active,Station,18.429198568482544,-33.920566292665214
+77,Civic Centre 5,IRT Station,Active,Station,18.429728574133776,-33.920476841053606
+78,Civic Centre 6,IRT Station,Active,Station,18.42950399531559,-33.92078992321176
+79,Civic Centre 7,IRT Station,Active,Station,18.42994416895527,-33.9206408359788
+80,Civic Centre 8,IRT Station,Active,Station,18.429674674541875,-33.92087937430904
+81,Civic Centre 11,IRT Station,Active,Station,18.430438242885987,-33.92108809532609
+82,Civic Centre 12,IRT Station,Active,Station,18.430195698085267,-33.92131172286371
+83,Civic Centre 9,IRT Station,Active,Station,18.430069934222058,-33.92072283396293
+84,Wigtown 1,Existing IRT Stop,Active,Full Shelter,18.406974248328513,-33.90755749667169
+85,Wigtown 2,Existing IRT Stop,Active,Full Shelter,18.406453225498478,-33.907505309429176
+86,Hill 1,Existing IRT Stop,Active,Full Shelter,18.40332708838718,-33.90783334938511
+87,Hill 2,Existing IRT Stop,Active,Full Shelter,18.40254555326176,-33.907788617390345
+88,Ellerton 1,Existing IRT Stop,Active,Full Shelter,18.3982785564758,-33.908161388097646
+89,Ellerton 2,Existing IRT Stop,Active,Full Shelter,18.398036010409353,-33.90810174536555
+90,Camberwell 1,Existing IRT Stop,Active,Totem,18.39580818923791,-33.909212595244696
+91,Camberwell 2,Existing IRT Stop,Active,Totem,18.396401076860815,-33.90884728294692
+92,Sea Point High 1,Existing IRT Stop,Active,Totem,18.394165461345423,-33.91068128341612
+93,Sea Point High 2,Existing IRT Stop,Active,Cantilever Shelter,18.393751763288773,-33.91095536791179
+94,Woodstock 1,IRT Station,Active,Station,18.446589952125162,-33.92292182773106
+95,Woodstock 2,IRT Station,Active,Station,18.446320456606138,-33.92299636986049
+96,Firmount 1,Existing IRT Stop,Active,Full Shelter,18.391918483079543,-33.91322346268457
+97,Firmount 2,Existing IRT Stop,Active,Totem,18.392477492403152,-33.912466539712014
+98,Sea Point 1,Existing IRT Stop,Active,Full Shelter,18.390049987812333,-33.915407741592055
+99,Sea Point 2,Existing IRT Stop,Active,Full Shelter,18.390220668301183,-33.91510209463917
+100,Arthur's 1,Existing IRT Stop,Active,Full Shelter,18.387965896052304,-33.91786032915717
+101,Arthur's 2,Existing IRT Stop,Active,Totem,18.38824437435092,-33.917398144685464
+102,Clarens 1,Existing IRT Stop,Active,Totem,18.385387730957454,-33.919709041305715
+103,Clarens 2,Existing IRT Stop,Active,Totem,18.385648242959988,-33.91952268092812
+104,Kei Apple 1,Existing IRT Stop,Active,Totem,18.383132959866078,-33.921199909301265
+105,Kei Apple 2,Existing IRT Stop,Active,Full Shelter,18.38351766370912,-33.92082629183182
+106,Paarden Eiland 1,IRT Station,Active,Station,18.467053574217076,-33.91794232942615
+107,Paarden Eiland 2,IRT Station,Active,Station,18.46729611921102,-33.91776342013699
+108,Tramway 1,Existing IRT Stop,Active,Totem,18.381263626383554,-33.922238944970864
+109,Tramway 2,Existing IRT Stop,Active,Cantilever Shelter,18.38172260536191,-33.92190060795329
+110,Queens 1,Existing IRT Stop,Active,Cantilever Shelter,18.379431901029168,-33.921840973783254
+111,Koosani 1,Existing IRT Stop,Active,Cantilever Shelter,18.379530715984252,-33.92442009364049
+112,Koosani 2,Existing IRT Stop,Active,Cantilever Shelter,18.379961907074254,-33.92397285293371
+113,Bantry Bay 1,Existing IRT Stop,Active,Totem,18.37897376000095,-33.92652209321867
+114,Bantry Bay 2,Existing IRT Stop,Active,Red Totem,18.378578501154614,-33.92699913641213
+115,Clifton 1,Existing IRT Stop,Active,Totem,18.378210191793933,-33.93367744835486
+116,Clifton 2,Existing IRT Stop,Active,Totem,18.37810239398704,-33.933468758109974
+117,Clifton 2nd 1,Existing IRT Stop,Active,Totem,18.378300024483593,-33.93747103171987
+118,Clifton 2nd 2,Existing IRT Stop,Active,Totem,18.378291041161607,-33.93697169014381
+119,Neptune 1,IRT Station,Active,Station,18.469559872844425,-33.915064821434285
+120,Neptune 2,IRT Station,Active,Station,18.46985631736392,-33.91495299916969
+121,Clifton 3rd 1,Existing IRT Stop,Active,Cantilever Shelter,18.377455606803245,-33.939848457554035
+122,Clifton 3rd 2,Existing IRT Stop,Active,Cantilever Shelter,18.37713221382474,-33.940101846566975
+123,Clifton 4th 1,Existing IRT Stop,Active,Totem,18.37579473453144,-33.94153849604221
+124,Clifton 4th 2,Existing IRT Stop,Active,Full Shelter,18.3754313712341,-33.94172390065494
+125,Maiden's Cove 1,Existing IRT Stop,Active,Full Shelter,18.37673695531613,-33.94472234504127
+126,Maiden's Cove 2,Existing IRT Stop,Active,Cantilever Shelter,18.376242881942773,-33.944290115634736
+127,Glen Beach 1,Existing IRT Stop,Active,Totem,18.37898274323216,-33.948560149094845
+128,Glen Beach 2,Existing IRT Stop,Active,Full Shelter,18.37862341731649,-33.947010144120824
+129,Camps Bay 1,Existing IRT Stop,Active,Full Shelter,18.37823714246148,-33.95128004059497
+130,Camps Bay 2,Existing IRT Stop,Active,Extended Shelter,18.378830871385397,-33.94993670047645
+131,Section 1,IRT Station,Active,Station,18.47246143243584,-33.91194865374404
+132,Section 2,IRT Station,Active,Station,18.472668044062754,-33.91174736685561
+133,Whale Rock 1,Existing IRT Stop,Active,Extended Shelter,18.37686319777391,-33.95348017986972
+134,Whale Rock 2,Existing IRT Stop,Active,Cantilever Shelter,18.376598816388906,-33.95508342112203
+135,Barley Bay 1,Existing IRT Stop,Active,Totem,18.376952550500594,-33.959208216951545
+136,Barley Bay 2,Existing IRT Stop,Active,Cantilever Shelter,18.37724382854854,-33.95884471542436
+137,Bakoven 1,Existing IRT Stop,Active,Full Shelter,18.373723899665613,-33.96308797075073
+138,Bakoven 2,Existing IRT Stop,Active,Totem,18.37366896156092,-33.962916375150726
+139,KoeÃ«l Bay 1,Existing IRT Stop,Active,Totem,18.37161655759765,-33.970927747314555
+140,KoeÃ«l Bay 2,Existing IRT Stop,Active,Totem,18.371329097093394,-33.9703615512425
+141,Vrystaat 1,IRT Station,Active,Station,18.476467917744554,-33.90737111056765
+142,Vrystaat 2,IRT Station,Active,Station,18.476710462474106,-33.90743075420249
+143,Oudekraal 1,Existing IRT Stop,Active,Totem,18.35057801390075,-33.98843325498782
+144,Oudekraal 2,Existing IRT Stop,Active,Totem,18.351386498311292,-33.98820235427797
+145,Llandudno 1,Existing IRT Stop,Active,Full Shelter,18.347532725037112,-34.005659622750485
+146,Llandudno 2,Existing IRT Stop,Active,Cantilever Shelter,18.347376023379308,-34.006630001657534
+147,Ruyterplaats 1,Existing IRT Stop,Active,Full Shelter,18.35019173746155,-34.014319896761634
+148,Ruyterplaats 2,Existing IRT Stop,Active,Full Shelter,18.349931227243495,-34.01355294385755
+149,Mount Rhodes 1,Existing IRT Stop,Active,Full Shelter,18.35136673719425,-34.019961291141094
+150,Mount Rhodes 2,Existing IRT Stop,Active,Totem,18.35111407258679,-34.0195271729106
+151,Helgarda 1,Existing IRT Stop,Active,Totem,18.349616816502692,-34.02798986371501
+152,Helgarda 2,Existing IRT Stop,Active,Full Shelter,18.34960381831258,-34.02761715955249
+153,Zoarvlei 1,IRT Station,Active,Station,18.480878646429364,-33.90060126391926
+154,Zoarvlei 2,IRT Station,Active,Station,18.48107627453433,-33.900653455927625
+155,Valley 1,Existing IRT Stop,Active,Full Shelter,18.35160209249476,-34.030372203695734
+156,Valley 2,Existing IRT Stop,Active,Full Shelter,18.351161919306403,-34.03050620922939
+157,Imizamo Yethu 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.355150439395658,-34.02982129396647
+158,Imizamo Yethu 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.355572646838617,-34.02997763414828
+159,Berg-en-dal 1,Existing IRT Stop,Active,Totem,18.35755360488779,-34.03721511664061
+160,Berg-en-dal 2,Existing IRT Stop,Active,Full Shelter,18.357095411381877,-34.03662411223834
+161,Scott 1,Existing IRT Stop,Active,Full Shelter,18.359022178468255,-34.03978179176457
+162,Scott 2,Existing IRT Stop,Active,Full Shelter,18.35876166588979,-34.03952125627927
+163,Mainstream 1,Existing IRT Stop,Active,Totem,18.359528466814844,-34.04266514393723
+164,Mainstream 2,Existing IRT Stop,Active,Totem,18.359363537763738,-34.042617864392795
+165,Lagoon Beach 1,IRT Station,Active,Station,18.485388189540277,-33.89154910901143
+166,Lagoon Beach 2,IRT Station,Active,Station,18.485361239174907,-33.891757900638844
+167,Hout Bay 1,Existing IRT Stop,Active,Cantilever Shelter,18.359264722980733,-34.045260311910226
+168,Daphne 1,Existing IRT Stop,Active,Totem,18.348134742851112,-34.033596721143084
+169,Daphne 2,Existing IRT Stop,Active,Full Shelter,18.348015813359037,-34.03264016864147
+170,Lancaster 1,Existing IRT Stop,Active,Full Shelter,18.34930240568149,-34.03655108625302
+171,Lancaster 2,Existing IRT Stop,Active,Full Shelter,18.34918562446268,-34.03640964692471
+172,Oxford Earl 1,Existing IRT Stop,Active,Totem,18.35010881754021,-34.039710711234676
+173,Oxford Earl 2,Existing IRT Stop,Active,Cantilever Shelter,18.35006165364096,-34.039988973340556
+174,Lower Victoria 1,Existing IRT Stop,Active,Totem,18.350577719506678,-34.04316641478506
+175,Lower Victoria 2,Existing IRT Stop,Active,Cantilever Shelter,18.350473877551572,-34.04296683054262
+176,Woodbridge 1,IRT Station,Active,Station,18.491308085575238,-33.88324175536528
+177,Woodbridge 2,IRT Station,Active,Station,18.491379952373183,-33.88345056712269
+178,Northshore 1,Existing IRT Stop,Active,Totem,18.34850290622531,-34.046659659683385
+179,Northshore 2,Existing IRT Stop,Active,Full Shelter,18.347937619466514,-34.04700557113475
+180,Fishmarket 1,Existing IRT Stop,Active,Totem,18.345579808440007,-34.04925232292879
+181,Fishmarket 2,Existing IRT Stop,Active,Full Shelter,18.34542859061939,-34.0492613433019
+182,Atlantic Skipper 1,Existing IRT Stop,Active,Totem,18.346418814275417,-34.05449707012931
+183,Atlantic Skipper 2,Existing IRT Stop,Active,Cantilever Shelter,18.346524061328534,-34.05479664952146
+184,Oceana 1,Existing IRT Stop,Active,Totem,18.344708339712113,-34.05584113101548
+185,Oceana 2,Existing IRT Stop,Active,Full Shelter,18.34533185281711,-34.05635025402046
+186,Bayview,Existing IRT Stop,Active,Cantilever Shelter,18.341498347382714,-34.05394446805694
+187,Hangberg 2,Existing IRT Stop,Active,Extended Shelter,18.342133849607574,-34.05423657920867
+188,Marlin 1,New IRT Stop with Temporary Pole,Active,Totem,18.341451131367634,-34.052748043119976
+189,Milnerton 1,IRT Station,Active,Station,18.495143892484474,-33.872293307310166
+190,Milnerton 2,IRT Station,Active,Station,18.49570084772627,-33.871614576726174
+191,Waterfront Silo 1,Existing IRT Stop,Active,Cantilever Shelter,18.42340951747556,-33.909460558700786
+192,Amsterdam 1,Existing IRT Stop,Active,Totem,18.422892394036925,-33.91261960878782
+193,Convention Centre 1,Existing IRT Stop,Active,Totem,18.427096509750623,-33.91689868470747
+194,Convention Centre 2,Existing IRT Stop,Active,Totem,18.426647351525634,-33.916399221574125
+195,Racecourse 1,IRT Station,Active,Station,18.500363105156264,-33.86134345504678
+196,Racecourse 2,IRT Station,Active,Station,18.50032717232463,-33.8615523211671
+197,Groote Kerk 1,Existing IRT Stop,Active,Totem,18.42118559549669,-33.92400266887334
+198,Groote Kerk 2,Existing IRT Stop,Active,Totem,18.42131136001128,-33.923697054261936
+199,Upper Long 1,Existing IRT Stop,Active,Totem,18.414636877068315,-33.92654445529577
+200,Lower Kloof 1,Existing IRT Stop,Active,Cantilever Shelter,18.41209456736994,-33.92864365808698
+201,Lower Kloof 2,Existing IRT Stop,Active,Cantilever Shelter,18.412131515885957,-33.92851819723729
+202,Ludwig's Garden 1,Existing IRT Stop,Active,Full Shelter,18.409379593885856,-33.93001933225101
+203,Ludwig's Garden 2,Existing IRT Stop,Active,Cantilever Shelter,18.410064452204043,-33.93038307760967
+204,Kew 1,Existing IRT Stop,Active,Temp Pole,18.4024377555273,-33.93708348315562
+205,Belle Ombre 1,Existing IRT Stop,Active,Totem,18.407243741937723,-33.93062158935939
+206,Belle Ombre 2,Existing IRT Stop,Active,Full Shelter,18.406866606205284,-33.930844703330735
+207,Sunset Beach 1,IRT Station,Active,Station,18.496410516610272,-33.85397314498457
+208,Sunset Beach 2,IRT Station,Active,Station,18.496527297643397,-33.85418202905477
+209,St Michael's 1,Existing IRT Stop,Active,Totem,18.4043297832074,-33.93329889848292
+210,St Michael's 2,Existing IRT Stop,Active,Full Shelter,18.404726079483826,-33.93279809172518
+211,Higgo 1,New IRT Stop with Temporary Pole,Active,Temp Pole,18.397312498250464,-33.93918923628757
+212,Cotswold 1,Existing IRT Stop,Active,Totem,18.401764018491242,-33.93539911461978
+213,Cotswold 2,Existing IRT Stop,Active,Full Shelter,18.401988597821685,-33.935123351728365
+214,Kloof Nek 1,Existing IRT Stop,Active,Full Shelter,18.395106031965092,-33.942038062607324
+215,Kloof Nek 2,Existing IRT Stop,Active,Cantilever Shelter,18.394738964367942,-33.941963470712835
+216,Platteklip 1,Existing IRT Stop,Active,Full Shelter,18.387238260492133,-33.95662269939783
+217,Dal 1,Existing IRT Stop,Active,Totem,18.391927467518236,-33.94671951500739
+218,Prima 1,Existing IRT Stop,Active,Totem,18.38719334476836,-33.95501323063955
+219,Table View 1,IRT Station,Active,Station,18.48871195467092,-33.82461987517619
+220,Table View 3,Existing IRT Stop,Active,Full Shelter,18.489197046315816,-33.82474674100383
+221,Table View 4,Existing IRT Stop,Active,Red Totem,18.488963483741887,-33.82479897974113
+222,Table View 5,IRT Station,Active,Station,18.489789934414055,-33.824963158583216
+223,Table View 6,IRT Station,Active,Station,18.489601286599985,-33.82499300879567
+224,Horak 1,Existing IRT Stop,Active,Full Shelter,18.385953669531794,-33.958321549593755
+225,Ravensteyn 1,Existing IRT Stop,Active,Totem,18.385019421693787,-33.95709957313661
+226,Ravensteyn 2,Existing IRT Stop,Active,Totem,18.38517213579545,-33.956376810181844
+227,Fiskaal 1,Existing IRT Stop,Active,Full Shelter,18.38314194322217,-33.958597236659095
+228,Fiskaal 2,Existing IRT Stop,Active,Totem,18.382800583457144,-33.95867174695407
+229,Chas Booth 1,Existing IRT Stop,Active,Totem,18.381930720879726,-33.960547651548765
+230,Susan 1,Existing IRT Stop,Active,Cantilever Shelter,18.381012935947506,-33.96370101798369
+231,Rontree 1,Existing IRT Stop,Active,Totem,18.379899025318732,-33.9633657433783
+232,Rontree 2,Existing IRT Stop,Active,Cantilever Shelter,18.378169329801977,-33.962322540763246
+233,Houghton 1,Existing IRT Stop,Active,Cantilever Shelter,18.37857850134806,-33.95985644698689
+234,Houghton 2,Existing IRT Stop,Active,Cantilever Shelter,18.378371889131312,-33.960683491222916
+235,Atlantis Station 1,IRT Station,Active,Station,18.49129012013161,-33.56285434663967
+236,Atlantis Station 2,IRT Station,Active,Station,18.491137406884548,-33.56267469467568
+237,Atlantis Station 3,IRT Station,Active,Station,18.491478766105367,-33.56327353299073
+238,Atlantis Station 4,IRT Station,Active,Station,18.49132605280143,-33.56312382368148
+239,Atlantis Station 5,IRT Station,Active,Station,18.49156859766107,-33.563505581319724
+240,Atlantis Station 6,IRT Station,Active,Station,18.491469782481396,-33.56359540567005
+241,Atlantis Station 8,IRT Station,Active,Station,18.491577581142366,-33.56391727839536
+242,Lower Camps Bay 1,Existing IRT Stop,Active,Totem,18.377761034510254,-33.955266575158426
+243,Lower Camps Bay 2,Existing IRT Stop,Active,Cantilever Shelter,18.377796966478122,-33.95549756514502
+244,Comrie 1,Existing IRT Stop,Active,Totem,18.387615552696726,-33.9495885018216
+245,Comrie 2,Existing IRT Stop,Active,Full Shelter,18.3877323338694,-33.948932741570545
+246,Atholl 1,Existing IRT Stop,Active,Totem,18.386366895120936,-33.949752441189
+247,Atholl 2,Existing IRT Stop,Active,Totem,18.386007569054726,-33.949342593163934
+248,Woodford 1,Existing IRT Stop,Active,Full Shelter,18.384576044148616,-33.951904357023395
+249,Woodford 2,Existing IRT Stop,Active,Totem,18.385092383001282,-33.95060703025699
+250,Quebec 1,Existing IRT Stop,Active,Totem,18.38212684733682,-33.95247229455452
+251,Quebec 2,Existing IRT Stop,Active,Totem,18.38326770649014,-33.95271819636771
+252,Thibault Square 1,Existing IRT Stop,Active,Temp Pole,18.424257834103155,-33.91892632467271
+253,Thibault Square 2,IRT Station,Active,Station,18.424500378742994,-33.918941233610546
+254,Marina 1,Existing IRT Stop,Active,Totem,18.42081728651212,-33.91155353424323
+255,Marina 2,Existing IRT Stop,Active,Totem,18.42081728621984,-33.911300059181805
+256,Aquarium 1,Existing IRT Stop,Active,Temp Pole,18.41750556453764,-33.90716730317336
+257,Aquarium 2,Existing IRT Stop,Active,Temp Pole,18.41764623281706,-33.90728164456279
+258,Nobel Square 1,Existing IRT Stop,Active,Totem,18.419281166720854,-33.906163314200484
+259,Nobel Square 2,Existing IRT Stop,Active,Totem,18.41944286365378,-33.90544011919225
+260,Stadium 3,IRT Station,Active,Station,18.411995829512477,-33.90793772481366
+261,Stadium 4,IRT Station,Active,Station,18.412247357578853,-33.90798991291948
+262,Somerset Hospital 1,Existing IRT Stop,Active,Full Shelter,18.415642989505276,-33.90306918921738
+263,Somerset Hospital 2,Existing IRT Stop,Active,Totem,18.415463327233354,-33.902860423805194
+264,Mouille Point 1,Existing IRT Stop,Active,Totem,18.408770877660753,-33.89970652965601
+265,Mouille Point 2,Existing IRT Stop,Active,Full Shelter,18.4085462993175,-33.899609600304
+266,Surrey 1,Existing IRT Stop,Active,Totem,18.404944055001945,-33.90022100327093
+267,Surrey 2,Existing IRT Stop,Active,Full Shelter,18.405195583185776,-33.90001223243023
+268,Melkbosstrand 1,IRT Station,Active,Station,18.44263736442671,-33.73050813593096
+269,Melkbosstrand 2,IRT Station,Active,Station,18.442583465040236,-33.730687438077176
+270,Melkbosstrand 3,IRT Station,Active,Station,18.442834993876634,-33.73028400793002
+271,Melkbosstrand 4,IRT Station,Active,Station,18.44282601084734,-33.73036618915262
+272,Lighthouse 1,Existing IRT Stop,Active,Totem,18.401817917536828,-33.90112318675228
+273,Lighthouse 2,Existing IRT Stop,Active,Full Shelter,18.402222159805063,-33.900877138022764
+274,Three Anchor Bay 1,Existing IRT Stop,Active,Cantilever Shelter,18.39855703278535,-33.90464981561977
+275,Three Anchor Bay 2,Existing IRT Stop,Active,Full Shelter,18.398314488357997,-33.905082247259664
+276,Rocklands 1,Existing IRT Stop,Active,Cantilever Shelter,18.395844120679186,-33.907542587071866
+277,Rocklands 2,Existing IRT Stop,Active,Full Shelter,18.394631395814777,-33.908027190899965
+278,Promenade 1,Existing IRT Stop,Active,Cantilever Shelter,18.39213407899059,-33.909630091914
+279,Promenade 2,Existing IRT Stop,Active,Full Shelter,18.392080180320995,-33.90948844060957
+280,London 1,Existing IRT Stop,Active,Red Totem,18.38960981262274,-33.9113000588085
+281,London 2,Existing IRT Stop,Active,Full Shelter,18.38950201452215,-33.911188232212005
+282,Granger Bay 1,IRT Station,Active,Station,18.41494230443508,-33.90436649797159
+283,Granger Bay 2,IRT Station,Active,Station,18.41479857436372,-33.90455289208641
+284,Graaf's Pool 1,Existing IRT Stop,Active,Full Shelter,18.38824437409278,-33.9131563689814
+285,Graaf's Pool 2,Existing IRT Stop,Active,Full Shelter,18.388082676621803,-33.913074363630734
+286,Boat Bay 1,Existing IRT Stop,Active,Cantilever Shelter,18.386816053233844,-33.91598921263636
+287,Boat Bay 2,Existing IRT Stop,Active,Full Shelter,18.386663338803874,-33.91586993698345
+288,Sea Point Pool 1,Existing IRT Stop,Active,Full Shelter,18.385290803793428,-33.918748367525225
+289,Sea Point Pool 2,Existing IRT Stop,Active,Cantilever Shelter,18.385169057462893,-33.918638244529795
+290,Cassel 1,Existing IRT Stop,Active,Totem,18.38229752731298,-33.92008921503522
+291,Cassel 2,Existing IRT Stop,Active,Totem,18.38111175091128,-33.9202308483881
+292,Strand 1,Existing IRT Stop,Active,Totem,18.420742249758476,-33.92035154846749
+293,Strand 2,Existing IRT Stop,Active,Totem,18.420877484403892,-33.92018562313357
+294,Porterfield 1,IRT Station,Active,Station,18.48844246054323,-33.81468642735644
+295,Porterfield 2,IRT Station,Active,Station,18.488604157125433,-33.814873017133635
+296,Old Fire Station 1,Existing IRT Stop,Active,Totem,18.417071310696358,-33.91751741763402
+297,Old Fire Station 2,Existing IRT Stop,Active,Totem,18.416873682197252,-33.917226689365954
+298,High Level 1,Existing IRT Stop,Active,Totem,18.411852100533025,-33.912067935330036
+299,High Level 2,Existing IRT Stop,Active,Totem,18.412238375087643,-33.912149941135354
+300,Skye Way 1,Existing IRT Stop,Active,Totem,18.408887659127437,-33.911046583562076
+301,Skye Way 2,Existing IRT Stop,Active,Totem,18.408833760518558,-33.91097203282541
+302,Ben Nevis 1,Existing IRT Stop,Active,Totem,18.406426274962378,-33.91062909404304
+303,Ben Nevis 2,Existing IRT Stop,Active,Totem,18.406749668962796,-33.910547086934024
+304,Ravenscraig 1,Existing IRT Stop,Active,Totem,18.40344386900315,-33.91045762433372
+305,Ravenscraig 2,Existing IRT Stop,Active,Cantilever Shelter,18.40372234575086,-33.91041289307368
+306,Sandown 1,IRT Station,Active,Station,18.484148514412514,-33.806991131441784
+307,Sandown 2,IRT Station,Active,Station,18.484319194140063,-33.80714788008043
+308,St Bedes 1,Existing IRT Stop,Active,Totem,18.399518231218572,-33.91048744480217
+309,St Bedes 2,Existing IRT Stop,Active,Totem,18.39942839886278,-33.91042780363817
+310,Rhine 1,Existing IRT Stop,Active,Totem,18.395592592549644,-33.91291035398261
+311,Rhine 2,Existing IRT Stop,Active,Cantilever Shelter,18.39598785176455,-33.912276677253026
+312,Albany 1,Existing IRT Stop,Active,Totem,18.393418669494213,-33.91554192831611
+313,Albany 2,Existing IRT Stop,Active,Full Shelter,18.39369714813828,-33.91510209523845
+314,The Glen 1,Existing IRT Stop,Active,Cantilever Shelter,18.391828651789695,-33.917472691428884
+315,The Glen 2,Existing IRT Stop,Active,Totem,18.392259842621886,-33.91683159328198
+316,Irwinton 1,Existing IRT Stop,Active,Totem,18.389591847200126,-33.920327754265
+317,Irwinton 2,Existing IRT Stop,Active,Totem,18.390355415441984,-33.919187230735055
+318,Royal Ascot 1,IRT Station,Active,Station,18.503040083666274,-33.86320085173477
+319,Royal Ascot 2,IRT Station,Active,Station,18.5032736457369,-33.86325306731872
+320,Fresnaye 1,Existing IRT Stop,Active,Totem,18.38845098566532,-33.921960240646484
+321,Fresnaye 2,Existing IRT Stop,Active,Full Shelter,18.388585734024275,-33.92163970960627
+322,Disandt 1,Existing IRT Stop,Active,Cantilever Shelter,18.385890788517717,-33.9228994664029
+323,Disandt 2,Existing IRT Stop,Active,Cantilever Shelter,18.38633994465943,-33.92304854814209
+324,Brevity Lane 1,Existing IRT Stop,Active,Full Shelter,18.381929217304567,-33.924390278382866
+325,Kloof 1,Existing IRT Stop,Active,Totem,18.38342940350292,-33.92421883558646
+326,Mid Long 1,Existing IRT Stop,Active,Totem,18.42078135303837,-33.92098373503998
+327,Granger 1,Existing IRT Stop,Active,Full Shelter,18.4122024433415,-33.90086222615203
+328,Granger 2,Existing IRT Stop,Active,Cantilever Shelter,18.412983977196482,-33.90127230831127
+329,Annandale 1,Existing IRT Stop,Active,Totem,18.414843489425312,-33.93305137773875
+330,Annandale 2,Existing IRT Stop,Active,Cantilever Shelter,18.415139934484433,-33.93370725955459
+331,Upper Buitenkant 1,Existing IRT Stop,Active,Full Shelter,18.418778110531225,-33.93771697637293
+332,Highlands 1,Existing IRT Stop,Active,Full Shelter,18.41904760475706,-33.94092908402649
+333,Herzlia 1,Existing IRT Stop,Active,Cantilever Shelter,18.42140119088794,-33.942076767909604
+334,Exner 1,Existing IRT Stop,Active,Cantilever Shelter,18.42311697293971,-33.94116011337576
+335,Wexford 1,Existing IRT Stop,Active,Cantilever Shelter,18.425829885405197,-33.94089182109133
+336,St James 1,Existing IRT Stop,Active,Cantilever Shelter,18.428201438060025,-33.93949818335837
+337,Gardenia 1,Existing IRT Stop,Active,Cantilever Shelter,18.428399067291934,-33.93688970762933
+338,Nazareth 1,Existing IRT Stop,Active,Cantilever Shelter,18.425317846035476,-33.93610714969202
+339,Upper Loop 1,Existing IRT Stop,Active,Totem,18.41402602306639,-33.926037595377885
+340,Leeuwen 1,Existing IRT Stop,Active,Cantilever Shelter,18.416433507612847,-33.92385358920759
+341,Church 1,Existing IRT Stop,Active,Totem,18.418032509444387,-33.92231058825931
+342,Mid Loop 1,Existing IRT Stop,Active,Totem,18.420799320286708,-33.91988049215566
+343,Darling 1,Existing IRT Stop,Active,Totem,18.422200691629783,-33.92392067482113
+344,Darling 2,Existing IRT Stop,Active,Totem,18.422717224118344,-33.92407992744726
+345,Hanover Street 1,Existing IRT Stop,Active,Full Shelter,18.428093640069005,-33.927990480638
+346,Hanover Street 2,Existing IRT Stop,Active,Full Shelter,18.427931943278256,-33.928087378216546
+347,Cput 1,Existing IRT Stop,Active,Full Shelter,18.430671805037797,-33.92966008812235
+348,Cput 2,Existing IRT Stop,Active,Totem,18.430420276418552,-33.929727170346354
+349,District Six 1,Existing IRT Stop,Active,Full Shelter,18.435136431848026,-33.93141910374172
+350,District Six 2,Existing IRT Stop,Active,Cantilever Shelter,18.43456151036494,-33.931381836582595
+351,Zonnebloem 1,Existing IRT Stop,Active,Full Shelter,18.438720710436407,-33.93305883073876
+352,Zonnebloem 2,Existing IRT Stop,Active,Cantilever Shelter,18.43916986673704,-33.93331969423294
+353,Chester West 1,Existing IRT Stop,Active,Totem,18.44162226833181,-33.93427370027592
+354,Coronation West 1,Existing IRT Stop,Active,Cantilever Shelter,18.443158386466013,-33.9344823873175
+355,Coronation East 1,Existing IRT Stop,Active,Cantilever Shelter,18.446940294664337,-33.93481777710172
+356,Chester East 1,Existing IRT Stop,Active,Totem,18.44658995159294,-33.93557053492724
+357,Upper Mountain 1,Existing IRT Stop,Active,Full Shelter,18.44906930185522,-33.93598790231668
+358,Upper Mountain 2,Existing IRT Stop,Active,Totem,18.44908726755122,-33.937262351936546
+359,Upper Roodebloem 1,Existing IRT Stop,Active,Full Shelter,18.451018645816166,-33.93764244819317
+360,Upper Roodebloem 2,Existing IRT Stop,Active,Cantilever Shelter,18.451171360438536,-33.93741140920801
+361,Balfour 1,Existing IRT Stop,Active,Cantilever Shelter,18.451593568486008,-33.934802870843114
+362,Balfour 2,Existing IRT Stop,Active,Cantilever Shelter,18.451692382266764,-33.934750698801366
+363,Lawley 1,Existing IRT Stop,Active,Totem,18.452914091127294,-33.93179177227499
+364,Lawley 2,Existing IRT Stop,Active,Totem,18.453075787586947,-33.93167997206194
+365,Upper Salt River 1,Existing IRT Stop,Active,Totem,18.457199054952007,-33.92997313621204
+366,Upper Salt River 2,Existing IRT Stop,Active,Cantilever Shelter,18.456992442487692,-33.930278728841564
+367,Kent 1,Existing IRT Stop,Active,Totem,18.458762123527517,-33.92890727756884
+368,Kent 2,Existing IRT Stop,Active,Cantilever Shelter,18.458788971519677,-33.929050644510895
+369,Spencer 1,Existing IRT Stop,Active,Cantilever Shelter,18.464780835868947,-33.929332132317704
+370,Salt River Rail 1,Existing IRT Stop,Active,Cantilever Shelter,18.46438557709154,-33.92769978704976
+371,Lower Buitenkant 1,Existing IRT Stop,Active,Full Shelter,18.424913603792735,-33.92650718597745
+372,Lower Buitenkant 2,Existing IRT Stop,Active,Full Shelter,18.424671058831944,-33.926589178137846
+373,Roeland 1,Existing IRT Stop,Active,Cantilever Shelter,18.421203561544825,-33.929958228680135
+374,Roeland 2,Existing IRT Stop,Active,Full Shelter,18.42119609719589,-33.92971868929666
+375,Roodehek 1,Existing IRT Stop,Active,Temp Pole,18.41987405464287,-33.93228369064127
+376,Roodehek 2,Existing IRT Stop,Active,Full Shelter,18.42012960818004,-33.93156858780382
+377,De Waal Park 1,Existing IRT Stop,Active,Cantilever Shelter,18.4141517870425,-33.93779895719513
+378,Upper Orange 1,Existing IRT Stop,Active,Totem,18.41415178686037,-33.94060117067753
+379,Montrose 1,Existing IRT Stop,Active,Totem,18.411492772834293,-33.941309163268926
+380,Molteno 1,Existing IRT Stop,Active,Cantilever Shelter,18.409058339288485,-33.94043721371374
+381,Rayden 1,Existing IRT Stop,Active,Full Shelter,18.409624277812114,-33.936926973022956
+382,Upper Kloof 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.40524757952228,-33.93605467595631
+383,Upper Kloof 2,Existing IRT Stop,Active,Totem,18.4050641457452,-33.936183791966634
+384,Welgemeend 1,Existing IRT Stop,Active,Totem,18.407171876841225,-33.93439294991532
+385,Welgemeend 2,Existing IRT Stop,Active,Temp Pole,18.406926804864042,-33.934832543028364
+386,Lower Reservoir 1,Existing IRT Stop,Active,Cantilever Shelter,18.412229392533636,-33.935138259405086
+387,Salt River Hall 1,Existing IRT Stop,Active,Totem,18.46185232783207,-33.92741654631942
+388,Salt River Hall 2,Existing IRT Stop,Active,Totem,18.461412154132315,-33.92766997217144
+389,Salt River Rail North 1,Existing IRT Stop,Active,Totem,18.46602949354924,-33.926350656384635
+390,Salt River Rail North 2,Existing IRT Stop,Active,Totem,18.465256942772218,-33.926626446642146
+391,Loco 1,Existing IRT Stop,Active,Totem,18.470656723173853,-33.9254841805803
+392,Loco 2,Existing IRT Stop,Active,Cantilever Shelter,18.470368285143792,-33.92570306637691
+393,Coronation 1,Existing IRT Stop,Active,Cantilever Shelter,18.480869663527887,-33.922981460913924
+394,Coronation 2,Existing IRT Stop,Active,Cantilever Shelter,18.480851697272183,-33.922377675685645
+395,Conway 1,Existing IRT Stop,Active,Cantilever Shelter,18.482504503744373,-33.91400734871714
+396,Conway 2,Existing IRT Stop,Active,Totem,18.48264471821212,-33.914141869943855
+397,Fenwick 1,Existing IRT Stop,Active,Cantilever Shelter,18.484070649429242,-33.9106573128856
+398,Fenwick 2,Existing IRT Stop,Active,Temp Pole,18.484320198877974,-33.9105461128613
+399,Sheridan 1,Existing IRT Stop,Active,Cantilever Shelter,18.485603784320936,-33.90746057636371
+400,Sheridan 2,Existing IRT Stop,Active,Cantilever Shelter,18.485792430939433,-33.907438209993884
+401,Narwhal 1,Existing IRT Stop,Active,Totem,18.48802874734738,-33.90220433504144
+402,Narwhal 2,Existing IRT Stop,Active,Full Shelter,18.488145689438955,-33.90251262112014
+403,Dreyer 1,Existing IRT Stop,Active,Totem,18.48964620326519,-33.89887889333686
+404,Dreyer 2,Existing IRT Stop,Active,Full Shelter,18.489775827331947,-33.89910642983009
+405,Tijgerhof 1,Existing IRT Stop,Active,Cantilever Shelter,18.49476455886683,-33.88673434626617
+406,Tijgerhof 2,Existing IRT Stop,Active,Full Shelter,18.494972845140143,-33.8871298937681
+407,Quest 1,Existing IRT Stop,Active,Full Shelter,18.497371277596223,-33.88096693663052
+408,Quest 2,Existing IRT Stop,Active,Totem,18.497246754228485,-33.880733717984576
+409,Zastron 1,Existing IRT Stop,Active,Full Shelter,18.501324302506234,-33.87543329902624
+410,Zastron 2,Existing IRT Stop,Active,Full Shelter,18.50097395846703,-33.87620895565483
+411,Gousblom 2,Existing IRT Stop,Active,Full Shelter,18.504477389065247,-33.87166678674011
+412,Green 1,Existing IRT Stop,Active,Totem,18.477972694259183,-33.924288284213546
+413,Green 2,Existing IRT Stop,Active,Full Shelter,18.47763106616483,-33.924541131416575
+414,Democracy South 1,Existing IRT Stop,Active,Full Shelter,18.506947755859496,-33.8803779917487
+415,Democracy South 2,Existing IRT Stop,Active,Full Shelter,18.507989801503566,-33.8805196906413
+416,Crassula 1,Existing IRT Stop,Active,Cantilever Shelter,18.50310030404418,-33.873086370222566
+417,Crassula 2,Existing IRT Stop,Active,Full Shelter,18.50230621847877,-33.874558890562646
+418,Boundary 1,Existing IRT Stop,Active,Cantilever Shelter,18.493118391722106,-33.89157396107024
+419,Boundary 2,Existing IRT Stop,Active,Full Shelter,18.493487038527874,-33.89142459467853
+420,Madeira 1,Existing IRT Stop,Active,Temp Pole,18.49125455676123,-33.89558896037155
+421,Madeira 2,Existing IRT Stop,Active,Full Shelter,18.491361196723446,-33.8958744915803
+422,Lower Church 1,Existing IRT Stop,Active,Cantilever Shelter,18.44932498326076,-33.926694848013625
+423,Lower Church 2,Existing IRT Stop,Active,Full Shelter,18.449012265759844,-33.926800395454904
+424,Biscuit Mill 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.457791942477098,-33.92784140714024
+425,Biscuit Mill 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.458088387041755,-33.927983026549995
+426,Dublin 1,Existing IRT Stop,Active,Totem,18.45335426612448,-33.92720784098645
+427,Dublin 2,Existing IRT Stop,Active,Totem,18.453012906098284,-33.92720038682606
+428,Davison 1,Existing IRT Stop,Active,Cantilever Shelter,18.447019032466898,-33.92646046922206
+429,Davison 2,Existing IRT Stop,Active,Totem,18.446358303058688,-33.92649804567202
+430,Barron 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.443481780733542,-33.92624630233606
+431,Barron 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.443239236032028,-33.926298478953385
+432,Russel 1,Existing IRT Stop,Active,Cantilever Shelter,18.43585508442388,-33.926618993382455
+433,Russel 2,Existing IRT Stop,Active,Cantilever Shelter,18.43592694903274,-33.92675316124746
+434,Castle 1,Existing IRT Stop,Active,Full Shelter,18.425819351858785,-33.92376218844724
+435,Castle 2,Existing IRT Stop,Active,Totem,18.42575921396073,-33.92407387903939
+436,Adderley Holding 1,Existing IRT Stop,Active,Temp Pole,18.42737498825392,-33.91813614806468
+437,Melkbosch 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.455600053526446,-33.72556224707842
+438,Melkbosch 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.45572581763884,-33.72621225238718
+439,Melkbosch 3,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.455150896108716,-33.72595822829986
+440,Hol Bay 1,Existing IRT Stop,Active,Temp Pole,18.44223312208182,-33.74541878900878
+441,Hol Bay 2,Existing IRT Stop,Active,Temp Pole,18.442376853288597,-33.74665873599452
+442,Marine 1,Existing IRT Stop,Active,Totem,18.460444644039917,-33.79249166486585
+443,Marine 2,Existing IRT Stop,Active,Full Shelter,18.460714034939905,-33.79241434411801
+444,Water's Edge 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.456570233465236,-33.78874655812791
+445,Water's Edge 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.456713965246102,-33.788597241336696
+446,De Mist 1,Existing IRT Stop,Active,Totem,18.45955264140981,-33.79604037496718
+447,De Mist 2,Existing IRT Stop,Active,Totem,18.45992993440744,-33.796861543038354
+448,Airport 1,IRT Station,Active,Station,18.595710288884373,-33.96922169781543
+449,Popham 1,Existing IRT Stop,Active,Full Shelter,18.48349274290312,-33.823440757751456
+450,Popham 2,Existing IRT Stop,Active,Full Shelter,18.484489873347847,-33.82347807241694
+451,Briza 1,Existing IRT Stop,Active,Totem,18.491119440114854,-33.82267954734757
+452,Briza 2,Existing IRT Stop,Active,Totem,18.49128113712478,-33.82262730736213
+453,Echium 1,Existing IRT Stop,Active,Totem,18.49363998201502,-33.82067024824986
+454,Echium 2,Existing IRT Stop,Active,Cantilever Shelter,18.494320002382068,-33.82047996096904
+455,Sandown East 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.53230719602568,-33.798048491857564
+456,Sandown East 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.532612622542924,-33.7977722849747
+457,Parklands Main South 1,Existing IRT Stop,Active,Cantilever Shelter,18.49577756763704,-33.818646819709585
+458,Parklands Main South 2,Existing IRT Stop,Active,Cantilever Shelter,18.496097423544764,-33.81837219663982
+459,Discovery 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.528255794180236,-33.79918316909931
+460,Discovery 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.528642069473094,-33.79895922044704
+461,Morningfield 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.521473514363034,-33.80065374844179
+462,Morningfield 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.52159029545028,-33.800608958968255
+463,St John's Wood 1,Existing IRT Stop,Active,Full Shelter,18.498171215152194,-33.81594030006397
+464,St John's Wood 2,Existing IRT Stop,Active,Cantilever Shelter,18.497263916485956,-33.81656722862409
+465,Hampstead 1,Existing IRT Stop,Active,Full Shelter,18.502357363925604,-33.815313365953806
+466,Hampstead 2,Existing IRT Stop,Active,Full Shelter,18.50279753911469,-33.815216339907685
+467,Oakdale 1,Existing IRT Stop,Active,Totem,18.509291236870432,-33.81178461731694
+468,Oakdale 2,Existing IRT Stop,Active,Full Shelter,18.50948869884977,-33.81179431451027
+469,Dorchester 1,Existing IRT Stop,Active,Totem,18.51191543892338,-33.80952893906934
+470,Dorchester 2,Existing IRT Stop,Active,Totem,18.511556112578706,-33.809954387310675
+471,Chippenham 1,Existing IRT Stop with Temporary Pole,Active,Totem,18.514233092719522,-33.80702098794154
+472,Chippenham 2,Existing IRT Stop with Temporary Pole,Active,Cantilever Shelter,18.514313940590863,-33.80707323811183
+473,Dartford 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.52030570418053,-33.803557507300404
+474,Dartford 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.52023383913808,-33.80347539702608
+475,Parklands Main North 1,Existing IRT Stop,Active,Full Shelter,18.51817444582557,-33.80455082091108
+476,Parklands Main North 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.518378202330826,-33.804575379588684
+477,Bittern 1,Existing IRT Stop,Active,Cantilever Shelter,18.513285160105205,-33.82434155587119
+478,Bittern 2,Existing IRT Stop,Active,Extended Shelter,18.513110198431853,-33.82437360482526
+479,Gie South 1,Existing IRT Stop,Active,Cantilever Shelter,18.51667651040947,-33.825246740448
+480,Gie South 2,Existing IRT Stop,Active,Cantilever Shelter,18.517053803148247,-33.82524674002206
+481,Pinto 1,Existing IRT Stop,Active,Cantilever Shelter,18.518437208321256,-33.821746681689405
+482,Pinto 2,Existing IRT Stop,Active,Cantilever Shelter,18.518500089685553,-33.82179145993421
+483,Earlswood 1,Existing IRT Stop,Active,Cantilever Shelter,18.519317556476025,-33.817216542709446
+484,Earlswood 2,Existing IRT Stop,Active,Cantilever Shelter,18.519380438854625,-33.817358346699834
+485,Gie Central 1,Existing IRT Stop,Active,Full Shelter,18.518751617805158,-33.81356688294259
+486,Gie Central 2,Existing IRT Stop,Active,Full Shelter,18.51876060190802,-33.813447463997946
+487,Hamptons 1,Existing IRT Stop,Active,Full Shelter,18.513963597688498,-33.80620738084973
+488,Hamptons 2,Existing IRT Stop,Active,Full Shelter,18.514143260694304,-33.806259630970644
+489,Gie North 1,Existing IRT Stop,Active,Cantilever Shelter,18.51163293754938,-33.804187460304526
+490,Gie North 2,Existing IRT Stop,Active,Full Shelter,18.51190538078364,-33.80441425719998
+491,Wandsworth 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.5080077679429,-33.80099712816156
+492,Wandsworth 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.506786058902467,-33.800900086386825
+493,Parklands Secondary 1,Existing IRT Stop,Active,Extended Shelter,18.503273646278043,-33.799586274097535
+494,Woodlands 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.497461545674362,-33.801751067046375
+495,Woodlands 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.498359861319052,-33.80151966012544
+496,Braselton 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.493041834831892,-33.80266175603733
+497,Braselton 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.492781324357264,-33.802669221029454
+498,Blaauwberg Hospital 3,Existing IRT Stop,Active,Cantilever Shelter,18.485253440614823,-33.80319174287626
+499,Blaauwberg Hospital 2,Existing IRT Stop,Active,Cantilever Shelter,18.485010896500377,-33.80316934860367
+500,Muscadel 1,Existing IRT Stop,Active,Full Shelter,18.509485339499058,-33.82070098053904
+501,Muscadel 2,Existing IRT Stop,Active,Cantilever Shelter,18.50960717888147,-33.82054361086263
+502,Wood Central 1,Existing IRT Stop,Active,Totem,18.506987989422417,-33.814003036359345
+503,Wood Central 2,Existing IRT Stop,Active,Cantilever Shelter,18.50747776225083,-33.81449983799283
+504,Wood North 1,Existing IRT Stop,Active,Cantilever Shelter,18.503787983052064,-33.805522954398036
+505,Wood North 2,Existing IRT Stop,Active,Full Shelter,18.503973229018243,-33.80567632138167
+506,Devonshire 1,Existing IRT Stop,Active,Full Shelter,18.499186311665675,-33.8069836667746
+507,Devonshire 2,Existing IRT Stop,Active,Full Shelter,18.499806148709336,-33.80669256069796
+508,Valderrama 1,Existing IRT Stop,Active,Totem,18.48979936444653,-33.80983397828246
+509,Valderrama 2,Existing IRT Stop,Active,Full Shelter,18.489917792366196,-33.81000045069862
+510,Nantucket 1,Existing IRT Stop,Active,Totem,18.48852523571758,-33.805850682800134
+511,Nantucket 2,Existing IRT Stop,Active,Cantilever Shelter,18.488726438830184,-33.806055918090976
+512,Waterville 1,Existing IRT Stop,Active,Totem,18.48724013269458,-33.803654618731066
+513,Waterville 2,Existing IRT Stop,Active,Full Shelter,18.487451622697566,-33.80365317164503
+514,Oakland Hills 1,Existing IRT Stop,Active,Totem,18.486672779933556,-33.79981022073983
+515,Oakland Hills 2,Existing IRT Stop,Active,Full Shelter,18.48688877612958,-33.80034720060866
+516,Radar 1,Existing IRT Stop,Active,Cantilever Shelter,18.478354379938704,-33.7998774050376
+517,Radar 2,Existing IRT Stop,Active,Cantilever Shelter,18.478228615928654,-33.79995951793283
+518,Blouberg Sands 1,Existing IRT Stop,Active,Totem,18.47583909682193,-33.80422931389791
+519,Blouberg Sands 2,Existing IRT Stop,Active,Totem,18.475892995553327,-33.80396059204833
+520,Cabin 1,Existing IRT Stop,Active,Full Shelter,18.478202829426067,-33.80831908264123
+521,Cabin 2,Existing IRT Stop,Active,Cantilever Shelter,18.47823026262181,-33.80823131787912
+522,West Beach 1,Existing IRT Stop,Active,Totem,18.478417262002814,-33.810730639346204
+523,West Beach 2,Existing IRT Stop,Active,Totem,18.478911336061266,-33.81053657669844
+524,Stirling 1,Existing IRT Stop,Active,Cantilever Shelter,18.476314340139208,-33.81286884722097
+525,Stirling 2,Existing IRT Stop,Active,Totem,18.476275167913034,-33.81254556021827
+526,Blouberg Rise 1,Existing IRT Stop,Active,Cantilever Shelter,18.478410535982242,-33.814291018984825
+527,Blouberg Rise 2,Existing IRT Stop,Active,Full Shelter,18.47849336735985,-33.81422126245861
+528,Viola 1,Existing IRT Stop,Active,Cantilever Shelter,18.479396426138006,-33.81847784221333
+529,Viola 2,Existing IRT Stop,Active,Cantilever Shelter,18.47911794746555,-33.818679348734435
+530,Tritonia 1,Existing IRT Stop,Active,Full Shelter,18.47830048115957,-33.82073171265969
+531,Dunker 1,Existing IRT Stop,Active,Totem,18.442736179504607,-33.69378820296574
+532,Edward 1,Existing IRT Stop,Active,Totem,18.44270922983092,-33.69171784870219
+533,Narcissus 1,Existing IRT Stop,Active,Totem,18.444380095792816,-33.690140759139844
+534,Human 1,Existing IRT Stop,Active,Totem,18.448413532361435,-33.68759941630399
+535,Kemp 1,Existing IRT Stop,Active,Totem,18.4521415399121,-33.68523739378551
+536,Le Sueur 1,Existing IRT Stop,Active,Totem,18.454899368321673,-33.686971542734796
+537,Petrus 1,Existing IRT Stop,Active,Totem,18.45028202651195,-33.692263471381146
+538,Raymond 1,Existing IRT Stop,Active,Totem,18.447640980431164,-33.692861407979684
+539,Waldeck 1,Existing IRT Stop,Active,Totem,18.44561078756895,-33.69455803299669
+540,Hoffe North 1,Existing IRT Stop,Active,Totem,18.441823961192814,-33.69699612287139
+541,Hoffe North 2,Existing IRT Stop,Active,Full Shelter,18.44182740299763,-33.69670888997179
+542,Pelican 1,Existing IRT Stop,Active,Cantilever Shelter,18.443715075979185,-33.7015883316372
+543,Pelican 2,Existing IRT Stop,Active,Totem,18.4438616251509,-33.70175300837894
+544,Riebeeckstrand 1,Existing IRT Stop,Active,Cantilever Shelter,18.444281280943272,-33.705693638035385
+545,Riebeeckstrand 2,Existing IRT Stop,Active,Cantilever Shelter,18.44428128120559,-33.705387240850165
+546,Hoffe South 1,Existing IRT Stop,Active,Cantilever Shelter,18.44619353451799,-33.711387363507015
+547,Hoffe South 2,Existing IRT Stop,Active,Full Shelter,18.446293321536746,-33.71148412782397
+548,Robben 1,Existing IRT Stop,Active,Totem,18.44563174612712,-33.717001433337934
+549,Robben 2,Existing IRT Stop,Active,Full Shelter,18.44606715216367,-33.71813899261608
+550,Atalantes 1,Existing IRT Stop,Active,Totem,18.447302167030415,-33.72310793633113
+551,Atalantes 2,Existing IRT Stop,Active,Full Shelter,18.44765574647879,-33.72403865683927
+552,Atlantic Beach 1,Existing IRT Stop,Active,Temp Pole,18.4470570762513,-33.73233849134061
+553,Atlantic Beach 2,Existing IRT Stop,Active,Full Shelter,18.447865558749783,-33.7320396599804
+554,Brittlestar 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.452689511911192,-33.734213630386286
+555,Brittlestar 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.452770360461916,-33.73419868932868
+556,Berkshire West 1,Existing IRT Stop,Active,Temp Pole,18.47748301368429,-33.788201550035076
+557,Sand 1,Existing IRT Stop,Active,Red Totem,18.468805288902573,-33.51163848826612
+558,Crown 1,Existing IRT Stop,Active,Full Shelter,18.46395019817621,-33.514019629996014
+559,Paradise 1,Existing IRT Stop,Active,Totem,18.466475436919627,-33.512914721115735
+560,Paradise 2,Existing IRT Stop,Active,Full Shelter,18.466144961068682,-33.51322196745221
+561,Goedverwacht 1,Existing IRT Stop,Active,Totem,18.47100464607299,-33.51308406872829
+562,Goedverwacht 2,Existing IRT Stop,Active,Full Shelter,18.472029902271487,-33.51229644303232
+563,Enon 1,Existing IRT Stop,Active,Full Shelter,18.47487789962175,-33.513301234065125
+564,Enon 2,Existing IRT Stop,Active,Full Shelter,18.474671287300005,-33.51279192757588
+565,PM Louw 1,Existing IRT Stop,Active,Totem,18.477725559085343,-33.51714340174845
+566,PM Louw 2,Existing IRT Stop,Active,Cantilever Shelter,18.477775350134692,-33.51704187927531
+567,Silverstream 1,Existing IRT Stop,Active,Full Shelter,18.482538913585874,-33.52055225129576
+568,Silverstream 2,Existing IRT Stop,Active,Full Shelter,18.48256122835917,-33.52046423512626
+569,Grosvenor North 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.487696858871,-33.55264354780704
+570,Grosvenor North 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.48789448762043,-33.55289059843918
+571,Montreal 1,Existing IRT Stop,Active,Full Shelter,18.493419127116017,-33.55208955492427
+572,Montreal 2,Existing IRT Stop,Active,Full Shelter,18.49357184065993,-33.55209704162528
+573,Charel Uys North 1,Existing IRT Stop,Active,Totem,18.493841335858157,-33.555727876172924
+574,Charel Uys North 2,Existing IRT Stop,Active,Full Shelter,18.49392610803918,-33.555658414097955
+575,Arion 1,Existing IRT Stop,Active,Full Shelter,18.49614102347524,-33.559119011266716
+576,Arion 2,Existing IRT Stop,Active,Full Shelter,18.496257803622097,-33.55903666717868
+577,Atlantis Cemetery 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.491649446054314,-33.53976604112183
+578,Atlantis Cemetery 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.491694362137704,-33.53957885366254
+579,Atlantis Cemetery 3,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.49191870892818,-33.53971446119842
+580,Pella North 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.520428299357796,-33.53696552629312
+581,Pella Central 2,Existing IRT Stop with Temporary Pole,Active,Cantilever Shelter,18.52073131620677,-33.53884180726984
+582,Pella South 1,Existing IRT Stop,Active,Totem,18.520131976117455,-33.54234706357993
+583,Pella South 2,Existing IRT Stop,Active,Totem,18.519677414511385,-33.54248082214705
+584,Fernande 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.48820889929944,-33.55536105598906
+585,Magnet 1,Existing IRT Stop,Active,Full Shelter,18.490472653149702,-33.54651199787069
+586,Mauritius 1,Existing IRT Stop,Active,Full Shelter,18.48787652156189,-33.54407123533044
+587,Kehrweider 1,Existing IRT Stop,Active,Full Shelter,18.487499230335626,-33.54812915155831
+588,Hermes 1,Existing IRT Stop,Active,Full Shelter,18.486205655866073,-33.54752272293252
+589,Saxonsea Clinic 1,Existing IRT Stop,Active,Full Shelter,18.48849636040582,-33.55018049882497
+590,Saxonsea Clinic 2,Existing IRT Stop,Active,Full Shelter,18.488613140868566,-33.550262851269785
+591,Lisboa 1,Existing IRT Stop,Active,Cantilever Shelter,18.48413054709539,-33.54463276587016
+592,Saxonsea Primary 1,Existing IRT Stop,Active,Totem,18.48851779789722,-33.5550681570858
+593,Saxonsea Primary 2,Existing IRT Stop,Active,Full Shelter,18.488746119946015,-33.55546069791961
+594,Valleyfield 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.483959866900385,-33.55494183167714
+595,Valleyfield 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.48421139618842,-33.55495680388149
+596,Wesfleur Park 1,Existing IRT Stop,Active,Totem,18.488175054636624,-33.558738923803105
+597,Wesfleur Park 2,Existing IRT Stop,Active,Full Shelter,18.488309781317813,-33.5587091939063
+598,Goede Hoop 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.484615638287526,-33.55074947697892
+599,Goede Hoop 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.48509174501028,-33.55095909964366
+600,Knysna 1,Existing IRT Stop,Active,Cantilever Shelter,18.50162972911866,-33.550180499428954
+601,Newlands 1,Existing IRT Stop,Active,Full Shelter,18.49845867569525,-33.551138775848564
+602,Montezuma 1,Existing IRT Stop,Active,Totem,18.50058768299133,-33.55262108937561
+603,Clearwater 1,Existing IRT Stop,Active,Totem,18.497542394665277,-33.55417075336129
+604,Clearwater 2,Existing IRT Stop,Active,Full Shelter,18.497533410489904,-33.554268074329755
+605,Sherwood 1,Existing IRT Stop,Active,Cantilever Shelter,18.493428110527958,-33.5554583763696
+606,Sherwood 2,Existing IRT Stop,Active,Full Shelter,18.49431978810632,-33.55529659390711
+607,Brutus 1,Existing IRT Stop,Active,Full Shelter,18.491344019419532,-33.557397258820686
+608,Brutus 2,Existing IRT Stop,Active,Full Shelter,18.491568598501836,-33.55676095118205
+609,Jacana 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.501477015347742,-33.570302078013015
+610,Jacana 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50147701544564,-33.5701823210353
+611,Swawel 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.506597413522538,-33.56908952688304
+612,Swawel 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.506552496967174,-33.56857306362166
+613,Robinvale 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.504701967147813,-33.56587094226494
+614,Robinvale 2,Existing IRT Stop with Temporary Pole,Active,Full Shelter,18.504165005603248,-33.566015914440584
+615,Curlew 1,Existing IRT Stop,Active,Totem,18.499728619186996,-33.565545329862395
+616,Curlew 2,Existing IRT Stop,Active,Full Shelter,18.50002337345906,-33.565898567541105
+617,Tortelduif 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50704657008957,-33.56504007867517
+618,Tortelduif 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.507567593495676,-33.56509247605003
+619,Sampson 1,Existing IRT Stop,Active,Full Shelter,18.49738069822435,-33.56400710259899
+620,Sampson 2,Existing IRT Stop,Active,Full Shelter,18.497677142329703,-33.56420172308484
+621,Patrys 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.503516191286604,-33.571050557755136
+622,Patrys 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.502770588847742,-33.570751167377054
+623,Wesfleur Hospital 1,Existing IRT Stop,Active,Cantilever Shelter,18.494020998569983,-33.564942769718066
+624,Wesfleur Hospital 2,Existing IRT Stop,Active,Full Shelter,18.49463051356893,-33.564666902740164
+625,Malgas 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.499644452448045,-33.57093080193437
+626,Malgas 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.499159362495313,-33.571028104049574
+627,Swift 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50893303160197,-33.56560147443822
+628,Swift 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.508852184354495,-33.56621526163396
+629,Flamingo Park 1,Existing IRT Stop,Active,Full Shelter,18.496769843422157,-33.568460789233804
+630,Flamingo Park 2,Existing IRT Stop,Active,Totem,18.49683272536408,-33.56833354420859
+631,Reygersdal 1,Existing IRT Stop,Active,Full Shelter,18.493967099922127,-33.5665895197814
+632,Reygersdal 2,Existing IRT Stop,Active,Full Shelter,18.493940150511918,-33.56671676782917
+633,Louwtjie Rothman 1,Existing IRT Stop,Active,Totem,18.47900116752586,-33.5976473313991
+634,Charles Piers 1,Existing IRT Stop,Active,Totem,18.481381703454204,-33.59909891693991
+635,Charles Piers 2,Existing IRT Stop,Active,Totem,18.481426618003624,-33.59895675183328
+636,Industrial 1,Existing IRT Stop,Active,Totem,18.484202412975595,-33.59674943080342
+637,Industrial 2,Existing IRT Stop,Active,Totem,18.48445394096173,-33.59641271626599
+638,Johan Heyns 1,Existing IRT Stop,Active,Totem,18.489771967145206,-33.592551623256085
+639,Johan Heyns 2,Existing IRT Stop,Active,Totem,18.48963721959418,-33.5925216923684
+640,John Dreyer 2,Existing IRT Stop,Active,Totem,18.491802160469906,-33.588391027682924
+641,Birkenhead 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.455402424499646,-33.73602149517645
+642,Birkenhead 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.455555137830686,-33.73602896543441
+643,Charel Uys South 1,Existing IRT Stop,Active,Totem,18.486097858372087,-33.58327980597217
+644,Charel Uys South 2,Existing IRT Stop,Active,Totem,18.48609785769216,-33.58363153861531
+645,Dahlia 1,Existing IRT Stop,Active,Full Shelter,18.48955504474405,-33.57425359827032
+646,Dahlia 2,Existing IRT Stop,Active,Totem,18.48932833932954,-33.57438047731846
+647,Meermin 1,Existing IRT Stop,Active,Full Shelter,18.493279278573414,-33.565549473173476
+648,Grosvenor 1,Existing IRT Stop,Active,Full Shelter,18.491031196963277,-33.57186129922368
+649,Grosvenor 2,Existing IRT Stop,Active,Totem,18.49041875395958,-33.572487622260276
+650,Charel Uys 1,Existing IRT Stop,Active,Full Shelter,18.49262860969119,-33.56959101588527
+651,Charel Uys 2,Existing IRT Stop,Active,Totem,18.492350132104004,-33.56977065266407
+652,Duynefontein 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.456094126750973,-33.690335093861194
+653,Duynefontein 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.45637260459429,-33.690364991735095
+654,Koeberg Power Station 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.45634565590121,-33.67682777111982
+655,Koeberg Power Station 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.45666904867728,-33.67678291790164
+656,Gerwyn Owen 1,Existing IRT Stop,Active,Totem,18.48153441633528,-33.58830122776239
+657,Gerwyn Owen 2,Existing IRT Stop,Active,Totem,18.481336787237304,-33.58838354391018
+658,Melkbosch Village 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.452303237125395,-33.7254501767619
+659,Dawn 1,Existing IRT Stop,Active,Full Shelter,18.51852704018096,-33.855591981821675
+660,Dawn 2,Existing IRT Stop,Active,Cantilever Shelter,18.517529910446704,-33.85495041918051
+661,Esso 1,Existing IRT Stop,Active,Full Shelter,18.521096221503885,-33.8582999220518
+662,Esso 2,Existing IRT Stop,Active,Cantilever Shelter,18.521410631590562,-33.85839689936302
+663,First 1,Existing IRT Stop,Active,Full Shelter,18.521141137302713,-33.861731347883826
+664,First 2,Existing IRT Stop,Active,Extended Shelter,18.52134775025911,-33.86235048207536
+665,Marconi 1,Existing IRT Stop,Active,Full Shelter,18.51935349002231,-33.86558034855959
+666,Marconi 2,Existing IRT Stop,Active,Full Shelter,18.52000925980327,-33.86514771777081
+667,Edison 1,Existing IRT Stop,Active,Totem,18.518713877908613,-33.88169861534586
+668,Edison 2,Existing IRT Stop,Active,Full Shelter,18.518914271867082,-33.88157607219613
+669,Bolt 1,Existing IRT Stop with Temporary Pole,Active,Full Shelter,18.51779618167921,-33.86989499877499
+670,Bolt 2,Existing IRT Stop with Temporary Pole,Active,Full Shelter,18.518015362335703,-33.868554390642416
+671,Victoria 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.523117430975915,-33.88749247679149
+672,Drill 1,Existing IRT Stop,Active,Cantilever Shelter,18.51939840489764,-33.87491867610573
+673,Drill 2,Existing IRT Stop,Active,Cantilever Shelter,18.519371455730468,-33.87426980023773
+674,Soldier 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.526683741566604,-33.88243633088207
+675,Soldier 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.526818490284217,-33.88242141589362
+676,Bosmansdam 1,Existing IRT Stop,Active,Full Shelter,18.520675733676455,-33.878555530922114
+677,Bosmansdam 2,Existing IRT Stop,Active,Cantilever Shelter,18.52098075505519,-33.87866105277403
+678,Emerald 1,Existing IRT Stop,Active,Totem,18.526593910510847,-33.87945321368988
+679,Emerald 2,Existing IRT Stop,Active,Totem,18.526710691463816,-33.87981865231113
+680,Century Gate 1,Existing IRT Stop,Active,Full Shelter,18.522353862616804,-33.88163835770347
+681,Century Gate 2,Existing IRT Stop,Active,Extended Shelter,18.522847935856507,-33.88180988518001
+682,Oasis 1,Existing IRT Stop,Active,Cantilever Shelter,18.50989423013167,-33.88961775761797
+683,Oasis 2,Existing IRT Stop,Active,Cantilever Shelter,18.510037960533808,-33.8892225347023
+684,Estuaries 1,Existing IRT Stop,Active,Full Shelter,18.520521300110495,-33.88418886420276
+685,Estuaries 2,Existing IRT Stop,Active,Full Shelter,18.520763844727878,-33.884293268969984
+686,Central Park 1,Existing IRT Stop,Active,Cantilever Shelter,18.511511197488485,-33.887440275990826
+687,Central Park 2,Existing IRT Stop,Active,Cantilever Shelter,18.511547130519027,-33.8870226713194
+688,Waterview 1,Existing IRT Stop,Active,Full Shelter,18.52002722641172,-33.88640371586399
+689,Waterview 2,Existing IRT Stop,Active,Full Shelter,18.520332652914405,-33.88677658143403
+690,Waterstone 1,Existing IRT Stop,Active,Full Shelter,18.513846817085888,-33.88559832216973
+691,Waterstone 2,Existing IRT Stop,Active,Full Shelter,18.514610384843564,-33.884927154118145
+692,Waterford 1,Existing IRT Stop,Active,Full Shelter,18.51880551647116,-33.88945370311569
+693,Waterford 2,Existing IRT Stop,Active,Full Shelter,18.5195331525411,-33.889006278984155
+694,Studio 1,Existing IRT Stop,Active,Full Shelter,18.518392291913063,-33.88491223890473
+695,Studio 2,Existing IRT Stop,Active,Full Shelter,18.51805093209096,-33.88460648433377
+696,Canal Walk North 1,Existing IRT Stop,Active,Full Shelter,18.515508700319014,-33.89219785315058
+697,Canal Walk North 2,Existing IRT Stop,Active,Full Shelter,18.515427852358346,-33.892570693059135
+698,Sailors Green 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.5254620341341,-33.885359684686264
+699,Sailors Green 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.52530931971115,-33.88550137600546
+700,Canal Walk South 1,Existing IRT Stop,Active,Full Shelter,18.511681876891306,-33.89571739533819
+701,Canal Walk South 2,Existing IRT Stop,Active,Full Shelter,18.51071169698037,-33.8964779549177
+702,Ocean Spirit 1,Existing IRT Stop,Active,Full Shelter,18.514322924297748,-33.881556323083025
+703,Grand Canal 1,Existing IRT Stop,Active,Full Shelter,18.506148254729688,-33.894047121769795
+704,Grand Canal 2,Existing IRT Stop,Active,Full Shelter,18.505995541515837,-33.89421862499425
+705,Mansfield 1,Existing IRT Stop,Active,Cantilever Shelter,18.495961359679086,-33.88284650238972
+706,Mansfield 2,Existing IRT Stop,Active,Cantilever Shelter,18.495970342756923,-33.8824736200114
+707,Century City Rail 1,Existing IRT Stop,Active,Cantilever Shelter,18.5113924880471,-33.90108824287926
+708,Loxton West 1,Existing IRT Stop,Active,Totem,18.492448947137074,-33.88248853497241
+709,Loxton West 2,Existing IRT Stop,Active,Full Shelter,18.491793176568162,-33.88222751708115
+710,Milnerton Lighthouse 1,Existing IRT Stop,Active,Full Shelter,18.487409397933124,-33.88140716788887
+711,Turf Club 1,IRT Station,Active,Station,18.51136746690677,-33.8621341586128
+712,Turf Club 2,IRT Station,Active,Station,18.511475265485267,-33.86185815873489
+713,Namar 1,Existing IRT Stop,Active,Full Shelter,18.514906828714224,-33.88192175111903
+714,Montague Gardens 1,IRT Station,Active,Station,18.516020739774422,-33.85539802205703
+715,Montague Gardens 2,IRT Station,Active,Station,18.516119555472553,-33.85521152070444
+716,Refinery 1,IRT Station,Active,Station,18.520979440508366,-33.847348275430704
+717,Refinery 2,IRT Station,Active,Station,18.521006389816183,-33.84716921677479
+718,Oscar Mpetha 1,Existing IRT Stop,Active,Cantilever Shelter,18.683547556633584,-34.05635025389126
+719,Oscar Mpetha 2,Existing IRT Stop,Active,Cantilever Shelter,18.6844818047023,-34.056290714873924
+720,Ncumo West 1,Existing IRT Stop,Active,Cantilever Shelter,18.673189103968884,-34.05331203920536
+721,Ncumo West 2,Existing IRT Stop,Active,Full Shelter,18.67353380233488,-34.053470064452355
+722,Khwezi 1,Existing IRT Stop,Active,Full Shelter,18.66903976529856,-34.04832693774733
+723,Khwezi 2,Existing IRT Stop,Active,Totem,18.669618774245865,-34.04867111995943
+724,Ngcingcu 1,Existing IRT Stop,Active,Full Shelter,18.666874825623584,-34.04465739498898
+725,Ngcingcu 2,Existing IRT Stop,Active,Full Shelter,18.667323983307476,-34.04543151043488
+726,Makabeni 1,Existing IRT Stop,Active,Cantilever Shelter,18.660047629521216,-34.043712071398204
+727,Makabeni 2,Existing IRT Stop,Active,Cantilever Shelter,18.66040695558726,-34.04343665964238
+728,Mfundisweni 1,Existing IRT Stop,Active,Full Shelter,18.653696540360027,-34.039141615631074
+729,Mfundisweni 2,Existing IRT Stop,Active,Full Shelter,18.65386721982205,-34.039871118822965
+730,Pama West 1,Existing IRT Stop,Active,Cantilever Shelter,18.652771275478365,-34.03077421667078
+731,Pama West 2,Existing IRT Stop,Active,Cantilever Shelter,18.652897040164127,-34.031801575715825
+732,Sigwele 1,Existing IRT Stop,Active,Cantilever Shelter,18.651774146513002,-34.02315797606714
+733,Sigwele 2,Existing IRT Stop,Active,Cantilever Shelter,18.65190889340747,-34.023187757059425
+734,Aliam 1,Existing IRT Stop,Active,Cantilever Shelter,18.65301382147144,-34.01854173975028
+735,Aliam 2,Existing IRT Stop,Active,Cantilever Shelter,18.65297788752924,-34.01880233968042
+736,Jeff Masemola 1,Existing IRT Stop,Active,Full Shelter,18.65709217230886,-34.01492303037203
+737,Jeff Masemola 2,Existing IRT Stop,Active,Totem,18.656382502928995,-34.016509027271205
+738,Mitchells Plain 1,IRT Station,Active,Station,18.620521756608326,-34.0478505763536
+739,Mitchells Plain 2,IRT Station,Active,Station,18.620485823960486,-34.04775381471657
+740,Pontiac 1,Existing IRT Stop,Active,Full Shelter,18.62097091483932,-34.04447875194374
+741,Pontiac 2,Existing IRT Stop,Active,Full Shelter,18.622273472029466,-34.045610151424924
+742,Kerrem 1,Existing IRT Stop,Active,Full Shelter,18.618967672263352,-34.040578284351206
+743,Kerrem 2,Existing IRT Stop,Active,Full Shelter,18.619093436492463,-34.040131653712336
+744,Marguerite 1,Existing IRT Stop,Active,Full Shelter,18.61417965058528,-34.03139212315111
+745,Marguerite 2,Existing IRT Stop,Active,Full Shelter,18.615338477789468,-34.032426919139034
+746,Sesame 1,Existing IRT Stop,Active,Full Shelter,18.60790042749301,-34.02204861299314
+747,Sesame 2,Existing IRT Stop,Active,Full Shelter,18.608592129877326,-34.022793154147024
+748,Adderley 1,IRT Station,Active,Station,18.425138183149677,-33.92028302775631
+749,Adderley 2,IRT Station,Active,Station,18.42500343470604,-33.92020102969828
+750,Adderley 3,IRT Station,Active,Station,18.424913604165987,-33.920529021639744
+751,Adderley 4,IRT Station,Active,Station,18.42486868773545,-33.92035011687859
+752,Adderley 5,IRT Station,Active,Station,18.424635126296117,-33.92073774304957
+753,Adderley 6,IRT Station,Active,Station,18.424689024610583,-33.920581202410084
+754,Kuyasa 1,Existing IRT Stop,Active,Temp Pole,18.692809188453033,-34.055278537759726
+755,Lindela 1,Existing IRT Stop,Active,Full Shelter,18.697401732618726,-34.05707834815069
+756,Lindela 2,Existing IRT Stop,Active,Totem,18.696806615995943,-34.05675348279742
+757,Dibana 1,Existing IRT Stop,Active,Temp Pole,18.698743579084024,-34.050488919923524
+758,Dibana 2,Existing IRT Stop,Active,Cantilever Shelter,18.698880939980878,-34.05093922990614
+759,Tutu 1,Existing IRT Stop,Active,Cantilever Shelter,18.69795628980009,-34.04697208293459
+760,Tutu 2,Existing IRT Stop,Active,Full Shelter,18.697372629873296,-34.04686807177563
+761,D Nyembe 1,Existing IRT Stop,Active,Full Shelter,18.692586229678117,-34.04523937234928
+762,Steve Biko 1,Existing IRT Stop,Active,Cantilever Shelter,18.685883177029744,-34.04382372380247
+763,Steve Biko 2,Existing IRT Stop,Active,Cantilever Shelter,18.686125721959534,-34.04387582904485
+764,Charles Mokoena 1,Existing IRT Stop,Active,Cantilever Shelter,18.68310055723707,-34.04088767735391
+765,Charles Mokoena 2,Existing IRT Stop,Active,Full Shelter,18.68330588095612,-34.04094419079599
+766,Vuyani 1,Existing IRT Stop,Active,Cantilever Shelter,18.680625855710694,-34.03734481194084
+767,Vuyani 2,Existing IRT Stop,Active,Full Shelter,18.680155464281444,-34.038133727705876
+768,Kapteinsklip 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.62162668497755,-34.0676024568372
+769,Kapteinsklip 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.621429055489337,-34.067862906853875
+770,Snowdon 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.626136227099316,-34.06606950675441
+771,Snowdon 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.626423688408455,-34.06607694836924
+772,Paulsberg 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.631166792586686,-34.06374770408356
+773,Paulsberg 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.631364422347392,-34.06374026177723
+774,Langeberg 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.637607714083636,-34.060592332177606
+775,Langeberg 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.63741008383151,-34.06133653370091
+776,Spine 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.631768664366934,-34.05414726663675
+777,Spine 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.632873592304346,-34.05472034697146
+778,Figaro 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.627187256392407,-34.05023980078132
+779,Figaro 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.62794184111157,-34.050500304684284
+780,Imperial 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.625309776670097,-34.04861721969068
+781,Imperial 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.625489439729066,-34.048408811754285
+782,Highlands 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.609811077617028,-34.02607754642802
+783,Highlands 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.6110725155339,-34.02779687346164
+784,Morgenster 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.61684893024955,-34.036309029630715
+785,Morgenster 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.617652587740935,-34.03709888135898
+786,The Castle 1,Existing IRT Stop,Active,Cantilever Shelter,18.425659204649815,-33.926231394033216
+787,The Castle 2,Existing IRT Stop,Active,Full Shelter,18.42582988454854,-33.926551909441606
+788,Buick 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.620333111053235,-34.042684856706614
+789,Bontebok 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.630268477918634,-34.05286712698097
+790,Bontebok 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.630052881583325,-34.05230892014919
+791,Tafelsig Primary 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.636547701504384,-34.059297404360215
+792,Tafelsig Primary 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.637086690801862,-34.05949089985624
+793,Ruwenzori 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.6339066550973,-34.06222212613763
+794,Ruwenzori 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.633529362433414,-34.06251235978723
+795,Dolomites East 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.629091685295283,-34.06493093787174
+796,Dolomites East 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.628498796957185,-34.06536999598699
+797,Dorp 1,Existing IRT Stop,Active,Totem,18.417610300715,-33.92395794465191
+798,Dolomites West 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.624716888919725,-34.06638205167339
+799,Dolomites West 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.624231799071786,-34.06644902601284
+800,Government Ave 1,Existing IRT Stop,Active,Cantilever Shelter,18.413792461422833,-33.93153090434758
+801,Government Ave 2,Existing IRT Stop,Active,Full Shelter,18.413163640308813,-33.93095699328968
+802,Longmarket 1,Existing IRT Stop,Active,Totem,18.419146420163084,-33.92258639211354
+803,Lower Plein 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.423880541247463,-33.923890858581835
+804,Lower Plein 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.424203934845597,-33.92308581885749
+805,St Georges 1,Existing IRT Stop,Active,Temp Pole,18.422090414557157,-33.92137904094948
+806,Waterfront 3,Existing IRT Stop,Active,Extended Shelter,18.42079033713674,-33.90215211302931
+807,Portswood 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.418023526023827,-33.905231360443935
+808,Portswood 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.41808640820853,-33.905238815647095
+809,Grey 1,IRT Station,Active,Station,18.496922557395035,-33.826791495990705
+810,Grey 2,IRT Station,Active,Station,18.49661713030285,-33.82691089686189
+811,Janssens 1,IRT Station,Active,Station,18.501638711460902,-33.828060116021994
+812,Janssens 2,IRT Station,Active,Station,18.501360234414772,-33.82815712690133
+813,Wood 1,IRT Station,Active,Station,18.5069567392293,-33.829440651211186
+814,Wood 2,IRT Station,Active,Station,18.5065974128539,-33.82956750995424
+815,Wood 3,Existing IRT Stop,Active,Full Shelter,18.50723521635808,-33.82948542516951
+816,Big Bay 1,Existing IRT Stop,Active,Extended Shelter,18.458835877315167,-33.792803893468154
+817,Kleinbaai 1,Existing IRT Stop,Active,Totem,18.460264359265917,-33.79875392801281
+818,Kleinbaai 2,Existing IRT Stop,Active,Full Shelter,18.460610313482373,-33.799472596981616
+819,Bokkombaai 1,Existing IRT Stop,Active,Full Shelter,18.462803487876542,-33.80352505474763
+820,Bokkombaai 2,Existing IRT Stop,Active,Totem,18.462756134994855,-33.80336210074958
+821,Perlemoen 1,Existing IRT Stop,Active,Totem,18.466649282203,-33.807505863413
+822,Perlemoen 2,Existing IRT Stop,Active,Full Shelter,18.46613399014112,-33.806537725817975
+823,Shell 1,Existing IRT Stop,Active,Totem,18.469887931786825,-33.811784860128164
+824,Shell 2,Existing IRT Stop,Active,Full Shelter,18.47008262989477,-33.811791493675216
+825,Seal 1,Existing IRT Stop,Active,Totem,18.472443465515234,-33.815537270977366
+826,Seal 2,Existing IRT Stop,Active,Totem,18.47274889314225,-33.81599254389461
+827,Circle East 1,IRT Station,Active,Station,18.514448688470956,-33.83143305977492
+828,Circle East 2,IRT Station,Active,Station,18.51416122748692,-33.83155991606388
+829,Potsdam 1,IRT Station,Active,Station,18.526027972115003,-33.83358212338403
+830,Potsdam 2,IRT Station,Active,Station,18.52602797163127,-33.8337910561673
+831,Killarney 1,IRT Station,Active,Station,18.530744126857115,-33.82435867924263
+832,Killarney 2,IRT Station,Active,Station,18.530672262050157,-33.824582560612974
+833,Garden 1,Existing IRT Stop,Active,Totem,18.492862171727506,-33.81461925496858
+834,Garden 2,Existing IRT Stop,Active,Totem,18.492934037122016,-33.81420875697954
+835,Humewood 1,Existing IRT Stop,Active,Full Shelter,18.49438930761273,-33.805072797153
+836,Humewood 2,Existing IRT Stop,Active,Full Shelter,18.49406591442528,-33.805042939082234
+837,Link 1,Existing IRT Stop,Active,Cantilever Shelter,18.496886623728347,-33.81600747070376
+838,Marine Circle 1,Existing IRT Stop,Active,Full Shelter,18.47782437346161,-33.82193325599206
+839,Marine Circle 2,Existing IRT Stop,Active,Full Shelter,18.479090999349427,-33.82208997793392
+840,Merlot 1,Existing IRT Stop,Active,Cantilever Shelter,18.508190560928483,-33.824311253068586
+841,Merlot 2,Existing IRT Stop,Active,Full Shelter,18.508070231847075,-33.824915186436854
+842,Michaelis 1,Existing IRT Stop,Active,Cantilever Shelter,18.41346567992179,-33.92873802387687
+843,Michaelis 2,Existing IRT Stop,Active,Full Shelter,18.41321591060247,-33.92892537139887
+844,Parklands College 1,Existing IRT Stop,Active,Full Shelter,18.50939117278474,-33.81670903365069
+845,Parklands College 2,Existing IRT Stop,Active,Full Shelter,18.509256426067456,-33.81641796012752
+846,Parklands Main 1,Existing IRT Stop,Active,Totem,18.5074597950812,-33.813096669800665
+847,Parklands Main 2,Existing IRT Stop,Active,Totem,18.50763945846899,-33.81312652507323
+848,Ravenswood 1,Existing IRT Stop,Active,Cantilever Shelter,18.504695933148106,-33.80999450654112
+849,Ravenswood 2,Existing IRT Stop,Active,Full Shelter,18.50481996074392,-33.81003204363279
+850,Tryall 1,Existing IRT Stop,Active,Full Shelter,18.48397783418009,-33.797451286820795
+851,Tryall 2,Existing IRT Stop,Active,Full Shelter,18.483932918302067,-33.79756326309774
+852,Carmel 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50001276232036,-33.56227796314614
+853,Carmel 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.500039711456395,-33.56238276007057
+854,Caelian 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50180040941068,-33.560009816997535
+855,Caelian 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.50186329119474,-33.559680445232004
+856,Malvern 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.501683628447,-33.55532362456786
+857,Malvern 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.501459048539864,-33.55513647230635
+858,Deerlodge 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.497686124658582,-33.55128101884471
+859,Deerlodge 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.498036468408074,-33.55152807341102
+860,Tsitsikamma 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.494317443415646,-33.5476125643654
+861,Tsitsikamma 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.494443206569613,-33.547717380345404
+862,Frans 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.48079779793163,-33.51375810884853
+863,Frans 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.480986444347213,-33.51396033121633
+864,Johannes 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.47751894672658,-33.51365325189838
+865,Lord Caledon 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.474311961500305,-33.51073220374754
+866,Denne West 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.47401551677278,-33.50843274520033
+867,Denne East 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.478695739607,-33.51004312126366
+868,Queens Beach 1,IRT Station,Active,Station,18.37986309171205,-33.92129681405554
+869,Queens Beach 2,IRT Station,Active,Station,18.379593597818094,-33.92145335391249
+870,Gardens 1,IRT Station,Active,Station,18.41932608341204,-33.93425134132064
+871,Gardens 2,IRT Station,Active,Station,18.419577611235876,-33.93406501219337
+872,Omuramba 1,IRT Station,Active,Station,18.51261612516964,-33.86838493815433
+873,Omuramba 2,IRT Station,Active,Station,18.51288562000733,-33.8683849379716
+874,Omuramba 3,Existing IRT Stop,Active,Station,18.513173080329278,-33.868631081193634
+875,Omuramba 4,Existing IRT Stop,Active,Station,18.513235962593267,-33.868556491984464
+876,Lobelia 1,New IRT Stop with Temporary Pole,Active,Full Shelter,18.506336900544216,-33.868929434580714
+877,Sanddrift 1,IRT Station,Active,Station,18.51033440426004,-33.88409937369935
+878,Sanddrift 2,IRT Station,Active,Station,18.510280505261512,-33.88389802056483
+879,Century City 1,IRT Station,Active,Station,18.50655249747867,-33.891377600057794
+880,Century City 2,IRT Station,Active,Station,18.506489615066783,-33.89122846338326
+881,Century City 3,Existing IRT Stop,Active,Station,18.506489615536285,-33.891459625836326
+882,Century City 4,Existing IRT Stop,Active,Station,18.50638181748964,-33.891377599720315
+883,Century City 5,IRT Station,Active,Station,18.506408766049624,-33.89155656490555
+884,Century City 6,IRT Station,Active,Station,18.50624706967777,-33.89148199659316
+885,Breakwater 1,Existing IRT Stop,Active,Totem,18.41937998167991,-33.902852968394825
+886,Breakwater 2,Existing IRT Stop,Active,Totem,18.418957773338082,-33.90338979016706
+887,Invermark 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.407890528503334,-33.94300831926273
+888,Chesterfield 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.40981292379476,-33.94318717468321
+889,Marmion 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.411681420210964,-33.943291507683384
+890,Atlantis Station 7,IRT Station,Active,Station,18.4916674134498,-33.56387236630946
+891,Hawking 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.528794783407964,-33.8013554364118
+892,Charles Matthews 1,Existing IRT Stop,Active,Totem,18.48154339912715,-33.59125707079244
+893,Charles Matthews 2,Existing IRT Stop,Active,Totem,18.48147153398366,-33.59136183309322
+894,Starke 1,Existing IRT Stop,Active,Totem,18.48726566810278,-33.57997942666222
+895,Starke 2,Existing IRT Stop,Active,Totem,18.4871039707617,-33.58007671856621
+896,Charles Duminy 1,Existing IRT Stop,Active,Totem,18.484759368519857,-33.579927039238704
+897,Charles Duminy 2,Existing IRT Stop,Active,Totem,18.484193428874114,-33.580196461704546
+898,Tom Henshilwood 1,Existing IRT Stop,Active,Totem,18.482980703958827,-33.58330225695782
+899,Tom Henshilwood 2,Existing IRT Stop,Active,Totem,18.483016636274222,-33.583219936134526
+900,John Van Niekerk 1,Existing IRT Stop,Active,Totem,18.4787406558671,-33.5842676503313
+901,John Van Niekerk 2,Existing IRT Stop,Active,Totem,18.478004037323892,-33.58449964161773
+902,Neil Hare 1,Existing IRT Stop,Active,Totem,18.474500606888352,-33.586999128610394
+903,Neil Hare 2,Existing IRT Stop,Active,Totem,18.474446709507557,-33.58702906287411
+904,Berzelia 1,Existing IRT Stop,Active,Totem,18.492511828799856,-33.57777162028812
+905,Berzelia 2,Existing IRT Stop,Active,Full Shelter,18.49296098698736,-33.57777162021919
+906,Bottlebrush 1,Existing IRT Stop,Active,Full Shelter,18.4967159436445,-33.577591999181706
+907,Bottlebrush 2,Existing IRT Stop,Active,Full Shelter,18.497210018354405,-33.577367472879075
+908,Disa 1,Existing IRT Stop,Active,Full Shelter,18.493805402675996,-33.57354295123773
+909,Disa 2,Existing IRT Stop,Active,Full Shelter,18.494047948427013,-33.57366270357562
+910,Alberto 1,Existing IRT Stop,Active,Full Shelter,18.490203158635605,-33.571866394274416
+911,Alberto 2,Existing IRT Stop,Active,Full Shelter,18.490328922794838,-33.57202357344457
+912,Bengal 1,Existing IRT Stop,Active,Full Shelter,18.48612173273923,-33.57133833602019
+913,Bengal 2,Existing IRT Stop,Active,Totem,18.485970666668205,-33.57143345110557
+914,Colebrook 1,Existing IRT Stop,Active,Full Shelter,18.48226209144364,-33.57082034944604
+915,Colebrook 2,Existing IRT Stop,Active,Totem,18.482180805475792,-33.57089875698263
+916,Gothenburg 1,Existing IRT Stop,Active,Full Shelter,18.48316036716811,-33.56831108934918
+917,Gothenburg 2,Existing IRT Stop,Active,Full Shelter,18.483447827494206,-33.56769731697746
+918,Avondale 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.484193429106366,-33.56615537987535
+919,Avondale 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.484489872865908,-33.56561644456243
+920,Parkview 1,Existing IRT Stop,Active,Full Shelter,18.488379578552887,-33.56560147428169
+921,Parkview 2,Existing IRT Stop,Active,Full Shelter,18.488325679828076,-33.56554907701958
+922,Marigold 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.496212887693208,-33.57519702129678
+923,Marigold 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.496410516504554,-33.575503881259664
+924,Nicobar 1,Existing IRT Stop,Active,Totem,18.491766227181262,-33.56645478827121
+925,Nicobar 2,Existing IRT Stop,Active,Totem,18.491649446383473,-33.566499698818895
+926,Moravia 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.47633317150011,-33.51515867723767
+927,Moravia 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.476360119842862,-33.515076292301806
+928,Hoogergeest 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.48356460904837,-33.55324245473031
+929,Hoogergeest 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.483717321845234,-33.5533697233863
+930,Ntlazane,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.68915578449527,-34.05632866348284
+931,Ntlazane,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.68959836421194,-34.05617280864432
+932,Woodville 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.495156069827424,-33.54628963953818
+933,Windsor 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.4963027192346,-33.5478671152676
+934,August Kotzenberg 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.462310468632275,-33.6030794279844
+935,Daimler-Benz 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.46748476507141,-33.60972318060915
+936,Daimler-Benz 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.466864928199204,-33.609775550065194
+937,Gideon Basson 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.474078399454573,-33.60498731521642
+938,Gideon Basson 2,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.473943651786172,-33.60523421542622
+939,Brenton 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.497721416728695,-33.546713548884064
+940,David Cloete 1,Existing IRT Stop with Temporary Pole,Active,Full Shelter,18.493975881792448,-33.58817610285845
+941,David Cloete 2,Existing IRT Stop with Temporary Pole,Active,Red Totem,18.494212362944012,-33.588368352925514
+942,Foreshore 1,Existing IRT Stop,Not Active,Full Shelter,18.429117718957674,-33.91765905602818
+943,Foreshore 2,Existing IRT Stop,Not Active,Temp Pole,18.429153652115815,-33.91776342009533
+944,Stables Turnaround 1,Existing IRT Stop with Temporary Pole,Active,Temp Pole,18.539601515586124,-33.810797814107985
+945,John Dreyer 1,Existing IRT Stop,Active,Totem,18.492305833037424,-33.587946816911
+946,Waterfront 2,IRT Station,Active,Station,18.420557144197577,-33.9021720417963
+947,Phoenix 1,IRT Station,Out of Service,Station,18.512225561116185,-33.87340973003179
+948,Phoenix 2,IRT Station,Out of Service,Station,18.512204251120263,-33.87344062611493
+949,Sanddrift 3,IRT Station,Active,Station,18.51031643764698,-33.88417394855469
+950,Sanddrift 4,IRT Station,Active,Station,18.510199657419857,-33.88413666207943
+951,Du Noon 1,IRT Station,Out of Service,Station,18.537398767803253,-33.8154308197574
+952,Du Noon 2,IRT Station,Out of Service,Station,18.53742156530969,-33.815442831826346
+953,Usasaza 1,IRT Station,Out of Service,Station,18.53985690959877,-33.8126614034537
+954,Usasaza 2,IRT Station,Out of Service,Station,18.53987511707745,-33.812676738183015
