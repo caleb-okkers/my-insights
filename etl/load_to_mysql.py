@@ -6,10 +6,10 @@ from mysql.connector import Error
 
 # MySQL connection config
 DB_CONFIG = {
-    'host': 'localhost',       # or your MySQL server host
-    'user': 'root',
-    'password': 'Keleb@g!le3#',
-    'database': 'my_insights'
+    'host': 'b3d9ojgfxvuk4gp7j3pn-mysql.services.clever-cloud.com',       # or your MySQL server host
+    'user': 'uliccdliuhdciszr',
+    'password': '3TrDySYbfVk0PXxEsFpu',
+    'database': 'b3d9ojgfxvuk4gp7j3pn'
 }
 
 # File paths (adjust if running from project root)
