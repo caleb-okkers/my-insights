@@ -18,7 +18,7 @@ st.markdown("""
         padding-top: 2rem;
     }
     .stMetric {
-        background-color: #f0f2f6;
+        background-color: #5C5B5B;
         padding: 10px;
         border-radius: 5px;
     }
@@ -113,28 +113,13 @@ with st.sidebar:
     
 
     
-    # Route filters
-    route_type = st.multiselect(
-        "Route Type",
-        options=routes["route_type"].unique(),
-        default=routes["route_type"].unique()
-    )
+    # Get active routes
+    active_routes = routes[routes["route_status"] == "Active"]
     
-    route_status = st.multiselect(
-        "Route Status",
-        options=routes["route_status"].unique(),
-        default=routes["route_status"].unique()
-    )
-    
-    # Filter routes based on type and status
-    filtered_routes = routes[
-        (routes["route_type"].isin(route_type)) & 
-        (routes["route_status"].isin(route_status))
-    ]
-    
+    # Route selection
     st.session_state.selected_routes = st.multiselect(
         "Select Routes",
-        options=filtered_routes["route_name"].sort_values().unique(),
+        options=active_routes["route_name"].sort_values().unique(),
         default=[]
     )
 
